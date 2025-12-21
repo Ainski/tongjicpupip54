@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GenRun Id="ram_8bit_synth_1" LaunchPart="xc7a100tcsg324-1" LaunchTime="1766158549">
+  <File Type="PA-TCL" Name="ram_8bit.tcl"/>
+  <File Type="RDS-PROPCONSTRS" Name="ram_8bit_drc_synth.rpt"/>
+  <File Type="RDS-RDS" Name="ram_8bit.vds"/>
+  <File Type="RDS-UTIL" Name="ram_8bit_utilization_synth.rpt"/>
+  <File Type="RDS-UTIL-PB" Name="ram_8bit_utilization_synth.pb"/>
+  <File Type="RDS-DCP" Name="ram_8bit.dcp"/>
+  <File Type="VDS-TIMINGSUMMARY" Name="ram_8bit_timing_summary_synth.rpt"/>
+  <File Type="VDS-TIMING-PB" Name="ram_8bit_timing_summary_synth.pb"/>
+  <FileSet Name="sources" Type="BlockSrcs" RelSrcDir="$PSRCDIR/ram_8bit">
+    <File Path="$PSRCDIR/sources_1/ip/ram_8bit/ram_8bit.xci">
+      <FileInfo>
+        <Attr Name="UsedIn" Val="synthesis"/>
+        <Attr Name="UsedIn" Val="implementation"/>
+        <Attr Name="UsedIn" Val="simulation"/>
+      </FileInfo>
+    </File>
+    <Config>
+      <Option Name="TopModule" Val="ram_8bit"/>
+      <Option Name="UseBlackboxStub" Val="1"/>
+    </Config>
+  </FileSet>
+  <FileSet Name="constrs_in" Type="BlockSrcs" RelSrcDir="$PSRCDIR/ram_8bit">
+    <File Path="$PSRCDIR/sources_1/ip/ram_8bit/ram_8bit.xci">
+      <FileInfo>
+        <Attr Name="UsedIn" Val="synthesis"/>
+        <Attr Name="UsedIn" Val="implementation"/>
+        <Attr Name="UsedIn" Val="simulation"/>
+      </FileInfo>
+    </File>
+    <Config>
+      <Option Name="TopModule" Val="ram_8bit"/>
+      <Option Name="UseBlackboxStub" Val="1"/>
+    </Config>
+  </FileSet>
+  <Strategy Version="1" Minor="2">
+    <StratHandle Name="Vivado Synthesis Defaults" Flow="Vivado Synthesis 2016"/>
+    <Step Id="synth_design"/>
+  </Strategy>
+</GenRun>

@@ -1,0 +1,6 @@
+# compile verilog/system verilog design source files
+verilog xil_defaultlib  "testbench_time_synth.v" --include "../../../../cpupip31real.srcs/sources_1/new"
+verilog xil_defaultlib  "../../../../cpupip31real.srcs/sim_1/new/testbench.v" --include "../../../../cpupip31real.srcs/sources_1/new"
+
+# Do not sort compile order
+nosort

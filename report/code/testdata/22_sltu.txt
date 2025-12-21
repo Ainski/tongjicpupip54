@@ -1,0 +1,106 @@
+sll $0,$0,0
+
+#initialize
+addi $0,$0,0x0000
+addi $1,$0,0x0001
+addi $2,$0,0xffffffff
+addi $3,$1,0xffff8000
+sll  $3,$3,16
+
+addi $4,$0,0x5555
+sll  $4,$4,16
+addi $4,$1,0x5555
+
+addi $5,$0,0xaaaa
+sll  $5,$5,16
+addi $5,$1,0xffffaaaa
+
+
+addi $6,$0,0x0000
+
+addi $7,$0,0x1111
+addi $8,$0,0x1111
+addi $9,$0,0x1111
+addi $10,$0,0x1111
+addi $11,$0,0x1111
+
+addi $12,$0,0xffff8000
+addi $13,$0,0xffff8000
+addi $14,$0,0xffff8000
+addi $15,$0,0xffff8000
+addi $16,$0,0xffff8000
+
+addi $17,$0,0xffffffff
+addi $18,$0,0xffffffff
+addi $19,$0,0xffffffff
+addi $20,$0,0xffffffff
+addi $21,$0,0xffffffff
+
+addi $22,$0,0xffff8000
+sll  $22,$22,16
+
+addi $23,$0,0xffff8000
+sll  $23,$23,16
+
+addi $24,$0,0xffff8000
+sll  $24,$24,16
+
+addi $25,$0,0xffff8000
+sll  $25,$25,16
+
+addi $26,$0,0xffff8000
+sll  $26,$26,16
+
+addi $27,$0,0xffffaaaa
+sll  $27,$27,16
+
+addi $28,$0,0xffffaaaa
+sll  $28,$28,16
+
+addi $29,$0,0xffffaaaa
+sll  $29,$29,16
+
+addi $30,$0,0xffffaaaa
+sll  $30,$30,16
+
+addi $31,$0,0xffffaaaa
+sll  $31,$31,16
+
+sltu $0,$0,$1
+
+sltu $7,$1,$7
+sltu $8,$2,$8
+sltu $9,$3,$9
+sltu $10,$4,$10
+sltu $11,$5,$11
+
+sltu $12,$1,$12
+sltu $13,$2,$13
+sltu $14,$3,$14
+sltu $15,$4,$15
+sltu $16,$5,$16
+
+sltu $17,$1,$17
+sltu $18,$2,$18
+sltu $19,$3,$19
+sltu $20,$4,$20
+sltu $21,$5,$21
+
+sltu $22,$1,$22
+sltu $23,$2,$23
+sltu $24,$3,$24
+sltu $25,$4,$25
+sltu $26,$5,$26
+
+sltu $27,$1,$27
+sltu $28,$2,$28
+sltu $29,$3,$29
+sltu $30,$4,$30
+sltu $31,$5,$31
+
+sltu $1,$6,$1
+sltu $2,$6,$1
+sltu $3,$6,$1
+sltu $4,$6,$1
+sltu $5,$6,$1
+halt

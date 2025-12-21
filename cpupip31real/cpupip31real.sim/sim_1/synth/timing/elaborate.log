@@ -1,0 +1,9 @@
+Vivado Simulator 2016.2
+Copyright 1986-1999, 2001-2016 Xilinx, Inc. All Rights Reserved.
+Running: D:/Vivado/2016.2/bin/unwrapped/win64.o/xelab.exe -wto c4d15a6f35c8443c92a6490ae75d443a --debug typical --relax --mt 2 --maxdelay -L xil_defaultlib -L simprims_ver -L secureip --snapshot testbench_time_synth -transport_int_delays -pulse_r 0 -pulse_int_r 0 xil_defaultlib.testbench xil_defaultlib.glbl -log elaborate.log 
+Using 2 slave threads.
+Starting static elaboration
+WARNING: [VRFC 10-426] cannot find port halt on this module [E:/Homeworks/cpu31real/cpupip31real/cpupip31real.srcs/sim_1/new/testbench.v:168]
+Completed static elaboration
+Starting simulation data flow analysis
+ERROR: [XSIM 43-3250] File E:/Homeworks/cpu31real/cpupip31real/cpupip31real.sim/sim_1/synth/timing/testbench_time_synth.v, line 33572. Unsupported named port connection association : .halt(halt) where formal is alias port.

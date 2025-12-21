@@ -1,0 +1,671 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 dE:/Homeworks/cpu31real
+valu
+Z1 !s110 1766308513
+!i10b 1
+!s100 EOGE6=5<1WG>RJOj70log3
+I3@>h;11>:n0JH]hoF7zTM0
+Z2 VDg1SIo80bB@j0V0VzS_@n1
+R0
+w1766243093
+8./cpupip31real/cpupip31real.srcs/sources_1/new/alu.v
+F./cpupip31real/cpupip31real.srcs/sources_1/new/alu.v
+L0 3
+Z3 OP;L;10.4c;61
+r1
+!s85 0
+31
+Z4 !s108 1766308513.000000
+!s107 ./cpupip31real/cpupip31real.srcs/sources_1/new/alu.v|
+!s90 -work|work|-quiet|./cpupip31real/cpupip31real.srcs/sources_1/new/alu.v|
+!i113 1
+Z5 o-quiet -work work -L mtiAvm -L mtiRnm -L mtiOvm -L mtiUvm -L mtiUPF -L infact
+vboard_top
+Z6 !s110 1766308514
+!i10b 1
+!s100 d<1CKBWDK[]FDjdAHkMYF1
+IY=R]?MzOla6W`1fdF4WfO2
+R2
+R0
+w1766300921
+8./cpupip31real/cpupip31real.srcs/sources_1/new/board_top.v
+F./cpupip31real/cpupip31real.srcs/sources_1/new/board_top.v
+L0 4
+R3
+r1
+!s85 0
+31
+Z7 !s108 1766308514.000000
+!s107 ./cpupip31real/cpupip31real.srcs/sources_1/new/board_top.v|
+!s90 -work|work|-quiet|./cpupip31real/cpupip31real.srcs/sources_1/new/board_top.v|
+!i113 1
+R5
+vclz_counter
+R6
+!i10b 1
+!s100 76mLC[g]1E1eEzHKeDJNc2
+I1PRYkgBX40Y5B;WMY@Z8]1
+R2
+R0
+w1766196738
+8./cpupip31real/cpupip31real.srcs/sources_1/new/clz_counter.v
+F./cpupip31real/cpupip31real.srcs/sources_1/new/clz_counter.v
+L0 3
+R3
+r1
+!s85 0
+31
+R7
+!s107 ./cpupip31real/cpupip31real.srcs/sources_1/new/clz_counter.v|
+!s90 -work|work|-quiet|./cpupip31real/cpupip31real.srcs/sources_1/new/clz_counter.v|
+!i113 1
+R5
+vcompare
+R6
+!i10b 1
+!s100 meezEHTM0BN=CNY2jZD7g1
+I<BK7Ud^EiF[WVnZBIhF8_0
+R2
+R0
+Z8 w1766150137
+8./cpupip31real/cpupip31real.srcs/sources_1/new/compare.v
+F./cpupip31real/cpupip31real.srcs/sources_1/new/compare.v
+L0 4
+R3
+r1
+!s85 0
+31
+R7
+!s107 .\cpupip31real\cpupip31real.srcs\sources_1\new\mips_def.vh|./cpupip31real/cpupip31real.srcs/sources_1/new/compare.v|
+!s90 -work|work|-quiet|./cpupip31real/cpupip31real.srcs/sources_1/new/compare.v|
+!i113 1
+R5
+vcontroller
+R6
+!i10b 1
+!s100 Y`2oeIEVSBT=aQm[L?b[[3
+If_=[zb`UGFc63K8LjMJNd3
+R2
+R0
+w1766304267
+8./cpupip31real/cpupip31real.srcs/sources_1/new/controller.v
+F./cpupip31real/cpupip31real.srcs/sources_1/new/controller.v
+L0 4
+R3
+r1
+!s85 0
+31
+R7
+!s107 .\cpupip31real\cpupip31real.srcs\sources_1\new\mips_def.vh|./cpupip31real/cpupip31real.srcs/sources_1/new/controller.v|
+!s90 -work|work|-quiet|./cpupip31real/cpupip31real.srcs/sources_1/new/controller.v|
+!i113 1
+R5
+vcp0
+Z9 !s110 1766308515
+!i10b 1
+!s100 nl]eZA?:@RhekYzD371PB1
+IDSHzI=e]X@F4X:ljmJ1[:3
+R2
+R0
+R8
+8./cpupip31real/cpupip31real.srcs/sources_1/new/cp0.v
+F./cpupip31real/cpupip31real.srcs/sources_1/new/cp0.v
+L0 4
+R3
+r1
+!s85 0
+31
+R7
+!s107 .\cpupip31real\cpupip31real.srcs\sources_1\new\mips_def.vh|./cpupip31real/cpupip31real.srcs/sources_1/new/cp0.v|
+!s90 -work|work|-quiet|./cpupip31real/cpupip31real.srcs/sources_1/new/cp0.v|
+!i113 1
+R5
+vcpu
+Z10 !s110 1766308519
+!i10b 1
+!s100 Mn11KSeRKzmNRoX5C4gEK1
+I0?>I;ob_0=iW9zh>OAo?H0
+R2
+R0
+w1766241500
+8./cpupip31real/cpupip31real.srcs/sources_1/new/cpu.v
+F./cpupip31real/cpupip31real.srcs/sources_1/new/cpu.v
+L0 3
+R3
+r1
+!s85 0
+31
+Z11 !s108 1766308519.000000
+!s107 ./cpupip31real/cpupip31real.srcs/sources_1/new/cpu.v|
+!s90 -work|work|-quiet|./cpupip31real/cpupip31real.srcs/sources_1/new/cpu.v|
+!i113 1
+R5
+vcutter
+R9
+!i10b 1
+!s100 C2HgN:HNPU^6>;Vi=O[n@0
+IKB9Qdcl?>`6LcVl7]:<9]2
+R2
+R0
+w1766151305
+8./cpupip31real/cpupip31real.srcs/sources_1/new/cutter.v
+F./cpupip31real/cpupip31real.srcs/sources_1/new/cutter.v
+L0 2
+R3
+r1
+!s85 0
+31
+Z12 !s108 1766308515.000000
+!s107 ./cpupip31real/cpupip31real.srcs/sources_1/new/cutter.v|
+!s90 -work|work|-quiet|./cpupip31real/cpupip31real.srcs/sources_1/new/cutter.v|
+!i113 1
+R5
+vdist_mem_gen_v8_0_10
+R1
+!i10b 1
+!s100 JCVFbaK<U5gBM=L[ab]bT2
+ITh``J=FGl292[kF9OgfKg2
+R2
+R0
+Z13 w1766158549
+8./cpupip31real/cpupip31real.srcs/sources_1/ip/ram_8bit/dist_mem_gen_v8_0_10/simulation/dist_mem_gen_v8_0.v
+F./cpupip31real/cpupip31real.srcs/sources_1/ip/ram_8bit/dist_mem_gen_v8_0_10/simulation/dist_mem_gen_v8_0.v
+L0 78
+R3
+r1
+!s85 0
+31
+R4
+!s107 ./cpupip31real/cpupip31real.srcs/sources_1/ip/ram_8bit/dist_mem_gen_v8_0_10/simulation/dist_mem_gen_v8_0.v|
+!s90 -work|work|-quiet|./cpupip31real/cpupip31real.srcs/sources_1/ip/ram_8bit/dist_mem_gen_v8_0_10/simulation/dist_mem_gen_v8_0.v|
+!i113 1
+R5
+vdiv
+R9
+!i10b 1
+!s100 Wg`bdb=@E8I9=5zJBN9zf3
+Iz6@R6=^m[DfmFFdCb51aC2
+R2
+R0
+w1766301828
+8./cpupip31real/cpupip31real.srcs/sources_1/new/div.v
+F./cpupip31real/cpupip31real.srcs/sources_1/new/div.v
+L0 3
+R3
+r1
+!s85 0
+31
+R12
+!s107 ./cpupip31real/cpupip31real.srcs/sources_1/new/div.v|
+!s90 -work|work|-quiet|./cpupip31real/cpupip31real.srcs/sources_1/new/div.v|
+!i113 1
+R5
+vdmem
+R9
+!i10b 1
+!s100 =YPT8CbVIMm4:mWz54PIM0
+I3g3XeK6?gI53e:T]j<bjS0
+R2
+R0
+w1766159060
+8./cpupip31real/cpupip31real.srcs/sources_1/new/dmem.v
+F./cpupip31real/cpupip31real.srcs/sources_1/new/dmem.v
+L0 3
+R3
+r1
+!s85 0
+31
+R12
+!s107 ./cpupip31real/cpupip31real.srcs/sources_1/new/dmem.v|
+!s90 -work|work|-quiet|./cpupip31real/cpupip31real.srcs/sources_1/new/dmem.v|
+!i113 1
+R5
+vforwarding
+R9
+!i10b 1
+!s100 ]@0of`7KoNFNF3_MN<c]73
+IW;9VZfi<gFZU@h^Sjc[N31
+R2
+R0
+w1766308503
+8./cpupip31real/cpupip31real.srcs/sources_1/new/forwarding.v
+F./cpupip31real/cpupip31real.srcs/sources_1/new/forwarding.v
+L0 4
+R3
+r1
+!s85 0
+31
+R12
+!s107 .\cpupip31real\cpupip31real.srcs\sources_1\new\mips_def.vh|./cpupip31real/cpupip31real.srcs/sources_1/new/forwarding.v|
+!s90 -work|work|-quiet|./cpupip31real/cpupip31real.srcs/sources_1/new/forwarding.v|
+!i113 1
+R5
+vIMEM_ip
+!s110 1766308894
+!i10b 1
+!s100 e7fW1UVkR1O2i3:_^TP_53
+I7Fn`K3FbV<LA^ER@jF`?L2
+R2
+R0
+w1766308894
+8./cpupip31real/cpupip31real.srcs/sources_1/new/IMEM_ip.v
+F./cpupip31real/cpupip31real.srcs/sources_1/new/IMEM_ip.v
+L0 6
+R3
+r1
+!s85 0
+31
+!s108 1766308894.000000
+!s107 ./cpupip31real/cpupip31real.srcs/sources_1/new/IMEM_ip.v|
+!s90 -work|work|-quiet|./cpupip31real/cpupip31real.srcs/sources_1/new/IMEM_ip.v|
+!i113 1
+R5
+n@i@m@e@m_ip
+vmult
+Z14 !s110 1766308516
+!i10b 1
+!s100 ?^WkLZk>gXcSLRSzGSG]<3
+IXnD[WClf]>FA7Z:M;8QRB3
+R2
+R0
+w1766301709
+8./cpupip31real/cpupip31real.srcs/sources_1/new/mult.v
+F./cpupip31real/cpupip31real.srcs/sources_1/new/mult.v
+L0 3
+R3
+r1
+!s85 0
+31
+Z15 !s108 1766308516.000000
+!s107 ./cpupip31real/cpupip31real.srcs/sources_1/new/mult.v|
+!s90 -work|work|-quiet|./cpupip31real/cpupip31real.srcs/sources_1/new/mult.v|
+!i113 1
+R5
+vmux2_32
+R14
+!i10b 1
+!s100 nzgZU^Co;OZ5W:j^IY]Nf2
+IPogMZA6a>[>Z_N0b]@6^>1
+R2
+R0
+w1766159176
+8./cpupip31real/cpupip31real.srcs/sources_1/new/mux2_32.v
+F./cpupip31real/cpupip31real.srcs/sources_1/new/mux2_32.v
+L0 2
+R3
+r1
+!s85 0
+31
+R15
+!s107 ./cpupip31real/cpupip31real.srcs/sources_1/new/mux2_32.v|
+!s90 -work|work|-quiet|./cpupip31real/cpupip31real.srcs/sources_1/new/mux2_32.v|
+!i113 1
+R5
+vmux2_5
+R14
+!i10b 1
+!s100 NfIm;e64XOFVmH9^P]O961
+IHoHhk2dXJ7:8e<bo[3:>Y2
+R2
+R0
+w1766151382
+8./cpupip31real/cpupip31real.srcs/sources_1/new/mux2_5.v
+F./cpupip31real/cpupip31real.srcs/sources_1/new/mux2_5.v
+L0 2
+R3
+r1
+!s85 0
+31
+R15
+!s107 ./cpupip31real/cpupip31real.srcs/sources_1/new/mux2_5.v|
+!s90 -work|work|-quiet|./cpupip31real/cpupip31real.srcs/sources_1/new/mux2_5.v|
+!i113 1
+R5
+vmux4_32
+R14
+!i10b 1
+!s100 1DWUG<7Togh]5:o]CY2N80
+IUMCb=GBgB_oJU0fi@nY@m2
+R2
+R0
+w1766151415
+8./cpupip31real/cpupip31real.srcs/sources_1/new/mux4_32.v
+F./cpupip31real/cpupip31real.srcs/sources_1/new/mux4_32.v
+L0 2
+R3
+r1
+!s85 0
+31
+R15
+!s107 ./cpupip31real/cpupip31real.srcs/sources_1/new/mux4_32.v|
+!s90 -work|work|-quiet|./cpupip31real/cpupip31real.srcs/sources_1/new/mux4_32.v|
+!i113 1
+R5
+vmux8_32
+Z16 !s110 1766308517
+!i10b 1
+!s100 dzCDQI5?:5:YM?EMa5OO21
+Ihze:`5XN@Tm8_ZE90XQ=P0
+R2
+R0
+w1766151447
+8./cpupip31real/cpupip31real.srcs/sources_1/new/mux8_32.v
+F./cpupip31real/cpupip31real.srcs/sources_1/new/mux8_32.v
+L0 2
+R3
+r1
+!s85 0
+31
+R15
+!s107 ./cpupip31real/cpupip31real.srcs/sources_1/new/mux8_32.v|
+!s90 -work|work|-quiet|./cpupip31real/cpupip31real.srcs/sources_1/new/mux8_32.v|
+!i113 1
+R5
+vpc
+R16
+!i10b 1
+!s100 Djbj9eRCg]b[kgWz[Rj<P3
+I`ERzBHZ4ZHPQGKTia?9j32
+R2
+R0
+w1766165308
+8./cpupip31real/cpupip31real.srcs/sources_1/new/pc.v
+F./cpupip31real/cpupip31real.srcs/sources_1/new/pc.v
+L0 3
+R3
+r1
+!s85 0
+31
+Z17 !s108 1766308517.000000
+!s107 ./cpupip31real/cpupip31real.srcs/sources_1/new/pc.v|
+!s90 -work|work|-quiet|./cpupip31real/cpupip31real.srcs/sources_1/new/pc.v|
+!i113 1
+R5
+vpipe_ex
+R16
+!i10b 1
+!s100 8`ongKihhbjC]^X_MS2zm2
+IX1BU6a8AG^<DMD2]IN?e70
+R2
+R0
+w1766151635
+8./cpupip31real/cpupip31real.srcs/sources_1/new/pipe_ex.v
+F./cpupip31real/cpupip31real.srcs/sources_1/new/pipe_ex.v
+L0 1
+R3
+r1
+!s85 0
+31
+R17
+!s107 ./cpupip31real/cpupip31real.srcs/sources_1/new/pipe_ex.v|
+!s90 -work|work|-quiet|./cpupip31real/cpupip31real.srcs/sources_1/new/pipe_ex.v|
+!i113 1
+R5
+vpipe_ex_mem
+R16
+!i10b 1
+!s100 ]8E2:@DeK=3b4lJm<G5K_3
+I[8=PX:6nW2m]E=l6W049L0
+R2
+R0
+w1766151670
+8./cpupip31real/cpupip31real.srcs/sources_1/new/pipe_ex_mem.v
+F./cpupip31real/cpupip31real.srcs/sources_1/new/pipe_ex_mem.v
+L0 2
+R3
+r1
+!s85 0
+31
+R17
+!s107 ./cpupip31real/cpupip31real.srcs/sources_1/new/pipe_ex_mem.v|
+!s90 -work|work|-quiet|./cpupip31real/cpupip31real.srcs/sources_1/new/pipe_ex_mem.v|
+!i113 1
+R5
+vpipe_id
+R16
+!i10b 1
+!s100 f4?_4PgHI5hWo]>fa1:]=0
+IY_C[]aE[ET8P1AED70]cM0
+R2
+R0
+w1766217582
+8./cpupip31real/cpupip31real.srcs/sources_1/new/pipe_id.v
+F./cpupip31real/cpupip31real.srcs/sources_1/new/pipe_id.v
+L0 3
+R3
+r1
+!s85 0
+31
+R17
+!s107 ./cpupip31real/cpupip31real.srcs/sources_1/new/pipe_id.v|
+!s90 -work|work|-quiet|./cpupip31real/cpupip31real.srcs/sources_1/new/pipe_id.v|
+!i113 1
+R5
+vpipe_id_ex
+Z18 !s110 1766308518
+!i10b 1
+!s100 R2G@nGJPbmVFUdcVz6Eb;0
+IF?I^bezNJj]RRWN9<8zQ70
+R2
+R0
+w1766151589
+8./cpupip31real/cpupip31real.srcs/sources_1/new/pipe_id_ex.v
+F./cpupip31real/cpupip31real.srcs/sources_1/new/pipe_id_ex.v
+L0 3
+R3
+r1
+!s85 0
+31
+R17
+!s107 ./cpupip31real/cpupip31real.srcs/sources_1/new/pipe_id_ex.v|
+!s90 -work|work|-quiet|./cpupip31real/cpupip31real.srcs/sources_1/new/pipe_id_ex.v|
+!i113 1
+R5
+vpipe_if
+R18
+!i10b 1
+!s100 KFD?4c:fbT2gz^>L4Qjn_3
+I5nmMIF6dIg53Bbo][R`Gm0
+R2
+R0
+w1766159215
+8./cpupip31real/cpupip31real.srcs/sources_1/new/pipe_if.v
+F./cpupip31real/cpupip31real.srcs/sources_1/new/pipe_if.v
+L0 3
+R3
+r1
+!s85 0
+31
+Z19 !s108 1766308518.000000
+!s107 ./cpupip31real/cpupip31real.srcs/sources_1/new/pipe_if.v|
+!s90 -work|work|-quiet|./cpupip31real/cpupip31real.srcs/sources_1/new/pipe_if.v|
+!i113 1
+R5
+vpipe_if_id
+R18
+!i10b 1
+!s100 PBTA4^B9e8eYAFzZd]oVV1
+ImnQEC`D:Df2oGIe=;QHEV0
+R2
+R0
+w1766151529
+8./cpupip31real/cpupip31real.srcs/sources_1/new/pipe_if_id.v
+F./cpupip31real/cpupip31real.srcs/sources_1/new/pipe_if_id.v
+L0 2
+R3
+r1
+!s85 0
+31
+R19
+!s107 ./cpupip31real/cpupip31real.srcs/sources_1/new/pipe_if_id.v|
+!s90 -work|work|-quiet|./cpupip31real/cpupip31real.srcs/sources_1/new/pipe_if_id.v|
+!i113 1
+R5
+vpipe_mem
+R18
+!i10b 1
+!s100 Ve9O:WTZ[jW=nB6najdVa2
+IcLV4e0QBFVl5B0nT7C`ZB3
+R2
+R0
+w1766151815
+8./cpupip31real/cpupip31real.srcs/sources_1/new/pipe_mem.v
+F./cpupip31real/cpupip31real.srcs/sources_1/new/pipe_mem.v
+L0 3
+R3
+r1
+!s85 0
+31
+R19
+!s107 ./cpupip31real/cpupip31real.srcs/sources_1/new/pipe_mem.v|
+!s90 -work|work|-quiet|./cpupip31real/cpupip31real.srcs/sources_1/new/pipe_mem.v|
+!i113 1
+R5
+vpipe_mem_wb
+R18
+!i10b 1
+!s100 h9d@TIUh7_KR?B0JXbB=z0
+IJTZOGmHB`fmEOi6I82<D>2
+R2
+R0
+w1766151765
+8./cpupip31real/cpupip31real.srcs/sources_1/new/pipe_mem_wb.v
+F./cpupip31real/cpupip31real.srcs/sources_1/new/pipe_mem_wb.v
+L0 3
+R3
+r1
+!s85 0
+31
+R19
+!s107 ./cpupip31real/cpupip31real.srcs/sources_1/new/pipe_mem_wb.v|
+!s90 -work|work|-quiet|./cpupip31real/cpupip31real.srcs/sources_1/new/pipe_mem_wb.v|
+!i113 1
+R5
+vpipe_wb
+R10
+!i10b 1
+!s100 So]2bcBW8ozF2I91n_Gcb1
+Ik[oc<ZUXJ@zo087Z[e6^f1
+R2
+R0
+w1766151787
+8./cpupip31real/cpupip31real.srcs/sources_1/new/pipe_wb.v
+F./cpupip31real/cpupip31real.srcs/sources_1/new/pipe_wb.v
+L0 4
+R3
+r1
+!s85 0
+31
+R11
+!s107 ./cpupip31real/cpupip31real.srcs/sources_1/new/pipe_wb.v|
+!s90 -work|work|-quiet|./cpupip31real/cpupip31real.srcs/sources_1/new/pipe_wb.v|
+!i113 1
+R5
+vram_8bit
+R1
+!i10b 1
+!s100 J7H7YalEf[_Xe2ZAmYU0E1
+I@aAH[5QPnY6kP_ikPEliQ1
+R2
+R0
+R13
+8./cpupip31real/cpupip31real.srcs/sources_1/ip/ram_8bit/sim/ram_8bit.v
+F./cpupip31real/cpupip31real.srcs/sources_1/ip/ram_8bit/sim/ram_8bit.v
+L0 56
+R3
+r1
+!s85 0
+31
+R4
+!s107 ./cpupip31real/cpupip31real.srcs/sources_1/ip/ram_8bit/sim/ram_8bit.v|
+!s90 -work|work|-quiet|./cpupip31real/cpupip31real.srcs/sources_1/ip/ram_8bit/sim/ram_8bit.v|
+!i113 1
+R5
+vregfile
+R10
+!i10b 1
+!s100 Wng6^RinQ6g4IXh`ME6ga0
+IF79cM0gN8OefFFVN3:ZYD0
+R2
+R0
+R8
+8./cpupip31real/cpupip31real.srcs/sources_1/new/regfile.v
+F./cpupip31real/cpupip31real.srcs/sources_1/new/regfile.v
+L0 3
+R3
+r1
+!s85 0
+31
+R11
+!s107 ./cpupip31real/cpupip31real.srcs/sources_1/new/regfile.v|
+!s90 -work|work|-quiet|./cpupip31real/cpupip31real.srcs/sources_1/new/regfile.v|
+!i113 1
+R5
+vregister
+R10
+!i10b 1
+!s100 KXmS<`CH^mQK_HE7LaWE71
+IP@ih55>;`l>mCaPM9IB000
+R2
+R0
+R8
+8./cpupip31real/cpupip31real.srcs/sources_1/new/register.v
+F./cpupip31real/cpupip31real.srcs/sources_1/new/register.v
+L0 3
+R3
+r1
+!s85 0
+31
+R11
+!s107 ./cpupip31real/cpupip31real.srcs/sources_1/new/register.v|
+!s90 -work|work|-quiet|./cpupip31real/cpupip31real.srcs/sources_1/new/register.v|
+!i113 1
+R5
+vseg7x16
+R10
+!i10b 1
+!s100 KX>8cPn_m<m^9GI:[WPba0
+I6Ho469g8WXXZXVnVF=@8N1
+R2
+R0
+R8
+8./cpupip31real/cpupip31real.srcs/sources_1/new/seg7x16.v
+F./cpupip31real/cpupip31real.srcs/sources_1/new/seg7x16.v
+L0 3
+R3
+r1
+!s85 0
+31
+R11
+!s107 ./cpupip31real/cpupip31real.srcs/sources_1/new/seg7x16.v|
+!s90 -work|work|-quiet|./cpupip31real/cpupip31real.srcs/sources_1/new/seg7x16.v|
+!i113 1
+R5
+vtestbench
+!s110 1766308520
+!i10b 1
+!s100 b1c7P]]OV]F47X2BI`_]m1
+I]0WH5F702k=@z7XL[8ZVS3
+R2
+R0
+w1766303781
+8./cpupip31real/cpupip31real.srcs/sim_1/new/testbench.v
+F./cpupip31real/cpupip31real.srcs/sim_1/new/testbench.v
+L0 3
+R3
+r1
+!s85 0
+31
+R11
+!s107 ./cpupip31real/cpupip31real.srcs/sim_1/new/testbench.v|
+!s90 -work|work|-quiet|./cpupip31real/cpupip31real.srcs/sim_1/new/testbench.v|
+!i113 1
+R5

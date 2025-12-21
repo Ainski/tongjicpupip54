@@ -1,0 +1,1915 @@
+This is XeTeX, Version 3.141592653-2.6-0.999996 (TeX Live 2024) (preloaded format=xelatex 2025.2.27)  22 DEC 2025 01:41
+entering extended mode
+ \write18 enabled.
+ %&-line parsing enabled.
+**实验一.tex
+(./实验一.tex
+LaTeX2e <2023-11-01> patch level 1
+L3 programming layer <2024-02-20>
+(d:/texlive/2024/texmf-dist/tex/latex/base/article.cls
+Document Class: article 2023/05/17 v1.4n Standard LaTeX document class
+(d:/texlive/2024/texmf-dist/tex/latex/base/size12.clo
+File: size12.clo 2023/05/17 v1.4n Standard LaTeX file (size option)
+)
+\c@part=\count184
+\c@section=\count185
+\c@subsection=\count186
+\c@subsubsection=\count187
+\c@paragraph=\count188
+\c@subparagraph=\count189
+\c@figure=\count190
+\c@table=\count191
+\abovecaptionskip=\skip48
+\belowcaptionskip=\skip49
+\bibindent=\dimen140
+)
+(d:/texlive/2024/texmf-dist/tex/latex/ctex/ctex.sty
+(d:/texlive/2024/texmf-dist/tex/latex/l3kernel/expl3.sty
+Package: expl3 2024-02-20 L3 programming layer (loader) 
+
+(d:/texlive/2024/texmf-dist/tex/latex/l3backend/l3backend-xetex.def
+File: l3backend-xetex.def 2024-02-20 L3 backend support: XeTeX
+\g__graphics_track_int=\count192
+\l__pdf_internal_box=\box51
+\g__pdf_backend_object_int=\count193
+\g__pdf_backend_annotation_int=\count194
+\g__pdf_backend_link_int=\count195
+))
+Package: ctex 2022/07/14 v2.5.10 Chinese adapter in LaTeX (CTEX)
+
+(d:/texlive/2024/texmf-dist/tex/latex/ctex/ctexhook.sty
+Package: ctexhook 2022/07/14 v2.5.10 Document and package hooks (CTEX)
+)
+(d:/texlive/2024/texmf-dist/tex/latex/ctex/ctexpatch.sty
+Package: ctexpatch 2022/07/14 v2.5.10 Patching commands (CTEX)
+)
+(d:/texlive/2024/texmf-dist/tex/latex/base/fix-cm.sty
+Package: fix-cm 2020/11/24 v1.1t fixes to LaTeX
+
+(d:/texlive/2024/texmf-dist/tex/latex/base/ts1enc.def
+File: ts1enc.def 2001/06/05 v3.0e (jk/car/fm) Standard LaTeX file
+LaTeX Font Info:    Redeclaring font encoding TS1 on input line 47.
+))
+\l__ctex_tmp_int=\count196
+\l__ctex_tmp_box=\box52
+\l__ctex_tmp_dim=\dimen141
+\g__ctex_section_depth_int=\count197
+\g__ctex_font_size_int=\count198
+
+(d:/texlive/2024/texmf-dist/tex/latex/ctex/config/ctexopts.cfg
+File: ctexopts.cfg 2022/07/14 v2.5.10 Option configuration file (CTEX)
+)
+(d:/texlive/2024/texmf-dist/tex/latex/ctex/engine/ctex-engine-xetex.def
+File: ctex-engine-xetex.def 2022/07/14 v2.5.10 XeLaTeX adapter (CTEX)
+
+(d:/texlive/2024/texmf-dist/tex/xelatex/xecjk/xeCJK.sty
+Package: xeCJK 2022/08/05 v3.9.1 Typesetting CJK scripts with XeLaTeX
+
+(d:/texlive/2024/texmf-dist/tex/latex/l3packages/xtemplate/xtemplate.sty
+(d:/texlive/2024/texmf-dist/tex/latex/l3packages/xtemplate/xtemplate-2023-10-10
+.sty
+Package: xtemplate 2023-10-10 L3 Experimental prototype document functions
+\l__xtemplate_tmp_dim=\dimen142
+\l__xtemplate_tmp_int=\count199
+\l__xtemplate_tmp_muskip=\muskip16
+\l__xtemplate_tmp_skip=\skip50
+))
+\l__xeCJK_tmp_int=\count266
+\l__xeCJK_tmp_box=\box53
+\l__xeCJK_tmp_dim=\dimen143
+\l__xeCJK_tmp_skip=\skip51
+\g__xeCJK_space_factor_int=\count267
+\l__xeCJK_begin_int=\count268
+\l__xeCJK_end_int=\count269
+\c__xeCJK_CJK_class_int=\XeTeXcharclass1
+\c__xeCJK_FullLeft_class_int=\XeTeXcharclass2
+\c__xeCJK_FullRight_class_int=\XeTeXcharclass3
+\c__xeCJK_HalfLeft_class_int=\XeTeXcharclass4
+\c__xeCJK_HalfRight_class_int=\XeTeXcharclass5
+\c__xeCJK_NormalSpace_class_int=\XeTeXcharclass6
+\c__xeCJK_CM_class_int=\XeTeXcharclass7
+\c__xeCJK_HangulJamo_class_int=\XeTeXcharclass8
+\l__xeCJK_last_skip=\skip52
+\c__xeCJK_none_node=\count270
+\g__xeCJK_node_int=\count271
+\c__xeCJK_CJK_node_dim=\dimen144
+\c__xeCJK_CJK-space_node_dim=\dimen145
+\c__xeCJK_default_node_dim=\dimen146
+\c__xeCJK_CJK-widow_node_dim=\dimen147
+\c__xeCJK_normalspace_node_dim=\dimen148
+\c__xeCJK_default-space_node_skip=\skip53
+\l__xeCJK_ccglue_skip=\skip54
+\l__xeCJK_ecglue_skip=\skip55
+\l__xeCJK_punct_kern_skip=\skip56
+\l__xeCJK_indent_box=\box54
+\l__xeCJK_last_penalty_int=\count272
+\l__xeCJK_last_bound_dim=\dimen149
+\l__xeCJK_last_kern_dim=\dimen150
+\l__xeCJK_widow_penalty_int=\count273
+
+Package xtemplate Info: Declaring object type 'xeCJK/punctuation' taking 0
+(xtemplate)             argument(s) on line 2396.
+
+\l__xeCJK_fixed_punct_width_dim=\dimen151
+\l__xeCJK_mixed_punct_width_dim=\dimen152
+\l__xeCJK_middle_punct_width_dim=\dimen153
+\l__xeCJK_fixed_margin_width_dim=\dimen154
+\l__xeCJK_mixed_margin_width_dim=\dimen155
+\l__xeCJK_middle_margin_width_dim=\dimen156
+\l__xeCJK_bound_punct_width_dim=\dimen157
+\l__xeCJK_bound_margin_width_dim=\dimen158
+\l__xeCJK_margin_minimum_dim=\dimen159
+\l__xeCJK_kerning_total_width_dim=\dimen160
+\l__xeCJK_same_align_margin_dim=\dimen161
+\l__xeCJK_different_align_margin_dim=\dimen162
+\l__xeCJK_kerning_margin_width_dim=\dimen163
+\l__xeCJK_kerning_margin_minimum_dim=\dimen164
+\l__xeCJK_bound_dim=\dimen165
+\l__xeCJK_reverse_bound_dim=\dimen166
+\l__xeCJK_margin_dim=\dimen167
+\l__xeCJK_minimum_bound_dim=\dimen168
+\l__xeCJK_kerning_margin_dim=\dimen169
+\g__xeCJK_family_int=\count274
+\l__xeCJK_fam_int=\count275
+\g__xeCJK_fam_allocation_int=\count276
+\l__xeCJK_verb_case_int=\count277
+\l__xeCJK_verb_exspace_skip=\skip57
+ (d:/texlive/2024/texmf-dist/tex/latex/fontspec/fontspec.sty
+(d:/texlive/2024/texmf-dist/tex/latex/l3packages/xparse/xparse.sty
+Package: xparse 2024-02-18 L3 Experimental document command parser
+)
+Package: fontspec 2024/02/13 v2.9a Font selection for XeLaTeX and LuaLaTeX
+
+(d:/texlive/2024/texmf-dist/tex/latex/fontspec/fontspec-xetex.sty
+Package: fontspec-xetex 2024/02/13 v2.9a Font selection for XeLaTeX and LuaLaTe
+X
+\l__fontspec_script_int=\count278
+\l__fontspec_language_int=\count279
+\l__fontspec_strnum_int=\count280
+\l__fontspec_tmp_int=\count281
+\l__fontspec_tmpa_int=\count282
+\l__fontspec_tmpb_int=\count283
+\l__fontspec_tmpc_int=\count284
+\l__fontspec_em_int=\count285
+\l__fontspec_emdef_int=\count286
+\l__fontspec_strong_int=\count287
+\l__fontspec_strongdef_int=\count288
+\l__fontspec_tmpa_dim=\dimen170
+\l__fontspec_tmpb_dim=\dimen171
+\l__fontspec_tmpc_dim=\dimen172
+
+(d:/texlive/2024/texmf-dist/tex/latex/base/fontenc.sty
+Package: fontenc 2021/04/29 v2.0v Standard LaTeX package
+)
+(d:/texlive/2024/texmf-dist/tex/latex/fontspec/fontspec.cfg)))
+(d:/texlive/2024/texmf-dist/tex/xelatex/xecjk/xeCJK.cfg
+File: xeCJK.cfg 2022/08/05 v3.9.1 Configuration file for xeCJK package
+))
+\ccwd=\dimen173
+\l__ctex_ccglue_skip=\skip58
+)
+\l__ctex_ziju_dim=\dimen174
+
+(d:/texlive/2024/texmf-dist/tex/latex/zhnumber/zhnumber.sty
+Package: zhnumber 2022/07/14 v3.0 Typesetting numbers with Chinese glyphs
+\l__zhnum_scale_int=\count289
+\l__zhnum_tmp_int=\count290
+
+(d:/texlive/2024/texmf-dist/tex/latex/zhnumber/zhnumber-utf8.cfg
+File: zhnumber-utf8.cfg 2022/07/14 v3.0 Chinese numerals with UTF8 encoding
+))
+(d:/texlive/2024/texmf-dist/tex/latex/ctex/scheme/ctex-scheme-chinese.def
+File: ctex-scheme-chinese.def 2022/07/14 v2.5.10 Chinese scheme for generic (CT
+EX)
+
+(d:/texlive/2024/texmf-dist/tex/latex/ctex/config/ctex-name-utf8.cfg
+File: ctex-name-utf8.cfg 2022/07/14 v2.5.10 Caption with encoding UTF-8 (CTEX)
+))
+(d:/texlive/2024/texmf-dist/tex/latex/tools/indentfirst.sty
+Package: indentfirst 2023/07/02 v1.03 Indent first paragraph (DPC)
+)
+(d:/texlive/2024/texmf-dist/tex/latex/ctex/fontset/ctex-fontset-windows.def
+File: ctex-fontset-windows.def 2022/07/14 v2.5.10 Windows fonts definition (CTE
+X)
+
+Package fontspec Info: Could not resolve font "KaiTi/B" (it probably doesn't
+(fontspec)             exist).
+
+
+Package fontspec Info: Could not resolve font "SimHei/I" (it probably doesn't
+(fontspec)             exist).
+
+
+Package fontspec Info: Could not resolve font "SimSun/BI" (it probably doesn't
+(fontspec)             exist).
+
+
+Package fontspec Info: Font family 'SimSun(0)' created for font 'SimSun' with
+(fontspec)             options
+(fontspec)             [Script={CJK},BoldFont={SimHei},ItalicFont={KaiTi}].
+(fontspec)              
+(fontspec)              This font family consists of the following NFSS
+(fontspec)             series/shapes:
+(fontspec)              
+(fontspec)             - 'normal' (m/n) with NFSS spec.:
+(fontspec)             <->"SimSun/OT:script=hani;language=dflt;"
+(fontspec)             - 'small caps'  (m/sc) with NFSS spec.: 
+(fontspec)             - 'bold' (b/n) with NFSS spec.:
+(fontspec)             <->"SimHei/OT:script=hani;language=dflt;"
+(fontspec)             - 'bold small caps'  (b/sc) with NFSS spec.: 
+(fontspec)             - 'italic' (m/it) with NFSS spec.:
+(fontspec)             <->"KaiTi/OT:script=hani;language=dflt;"
+(fontspec)             - 'italic small caps'  (m/scit) with NFSS spec.: 
+
+))
+(d:/texlive/2024/texmf-dist/tex/latex/ctex/config/ctex.cfg
+File: ctex.cfg 2022/07/14 v2.5.10 Configuration file (CTEX)
+)
+(d:/texlive/2024/texmf-dist/tex/latex/amsmath/amsmath.sty
+Package: amsmath 2023/05/13 v2.17o AMS math features
+\@mathmargin=\skip59
+
+For additional information on amsmath, use the `?' option.
+(d:/texlive/2024/texmf-dist/tex/latex/amsmath/amstext.sty
+Package: amstext 2021/08/26 v2.01 AMS text
+
+(d:/texlive/2024/texmf-dist/tex/latex/amsmath/amsgen.sty
+File: amsgen.sty 1999/11/30 v2.0 generic functions
+\@emptytoks=\toks17
+\ex@=\dimen175
+))
+(d:/texlive/2024/texmf-dist/tex/latex/amsmath/amsbsy.sty
+Package: amsbsy 1999/11/29 v1.2d Bold Symbols
+\pmbraise@=\dimen176
+)
+(d:/texlive/2024/texmf-dist/tex/latex/amsmath/amsopn.sty
+Package: amsopn 2022/04/08 v2.04 operator names
+)
+\inf@bad=\count291
+LaTeX Info: Redefining \frac on input line 234.
+\uproot@=\count292
+\leftroot@=\count293
+LaTeX Info: Redefining \overline on input line 399.
+LaTeX Info: Redefining \colon on input line 410.
+\classnum@=\count294
+\DOTSCASE@=\count295
+LaTeX Info: Redefining \ldots on input line 496.
+LaTeX Info: Redefining \dots on input line 499.
+LaTeX Info: Redefining \cdots on input line 620.
+\Mathstrutbox@=\box55
+\strutbox@=\box56
+LaTeX Info: Redefining \big on input line 722.
+LaTeX Info: Redefining \Big on input line 723.
+LaTeX Info: Redefining \bigg on input line 724.
+LaTeX Info: Redefining \Bigg on input line 725.
+\big@size=\dimen177
+LaTeX Font Info:    Redeclaring font encoding OML on input line 743.
+LaTeX Font Info:    Redeclaring font encoding OMS on input line 744.
+\macc@depth=\count296
+LaTeX Info: Redefining \bmod on input line 905.
+LaTeX Info: Redefining \pmod on input line 910.
+LaTeX Info: Redefining \smash on input line 940.
+LaTeX Info: Redefining \relbar on input line 970.
+LaTeX Info: Redefining \Relbar on input line 971.
+\c@MaxMatrixCols=\count297
+\dotsspace@=\muskip17
+\c@parentequation=\count298
+\dspbrk@lvl=\count299
+\tag@help=\toks18
+\row@=\count300
+\column@=\count301
+\maxfields@=\count302
+\andhelp@=\toks19
+\eqnshift@=\dimen178
+\alignsep@=\dimen179
+\tagshift@=\dimen180
+\tagwidth@=\dimen181
+\totwidth@=\dimen182
+\lineht@=\dimen183
+\@envbody=\toks20
+\multlinegap=\skip60
+\multlinetaggap=\skip61
+\mathdisplay@stack=\toks21
+LaTeX Info: Redefining \[ on input line 2953.
+LaTeX Info: Redefining \] on input line 2954.
+)
+(d:/texlive/2024/texmf-dist/tex/latex/amsfonts/amsfonts.sty
+Package: amsfonts 2013/01/14 v3.01 Basic AMSFonts support
+\symAMSa=\mathgroup4
+\symAMSb=\mathgroup5
+LaTeX Font Info:    Redeclaring math symbol \hbar on input line 98.
+LaTeX Font Info:    Overwriting math alphabet `\mathfrak' in version `bold'
+(Font)                  U/euf/m/n --> U/euf/b/n on input line 106.
+)
+(d:/texlive/2024/texmf-dist/tex/latex/amsfonts/amssymb.sty
+Package: amssymb 2013/01/14 v3.01 AMS font symbols
+)
+(d:/texlive/2024/texmf-dist/tex/latex/graphics/graphicx.sty
+Package: graphicx 2021/09/16 v1.2d Enhanced LaTeX Graphics (DPC,SPQR)
+
+(d:/texlive/2024/texmf-dist/tex/latex/graphics/keyval.sty
+Package: keyval 2022/05/29 v1.15 key=value parser (DPC)
+\KV@toks@=\toks22
+)
+(d:/texlive/2024/texmf-dist/tex/latex/graphics/graphics.sty
+Package: graphics 2022/03/10 v1.4e Standard LaTeX Graphics (DPC,SPQR)
+
+(d:/texlive/2024/texmf-dist/tex/latex/graphics/trig.sty
+Package: trig 2021/08/11 v1.11 sin cos tan (DPC)
+)
+(d:/texlive/2024/texmf-dist/tex/latex/graphics-cfg/graphics.cfg
+File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
+)
+Package graphics Info: Driver file: xetex.def on input line 107.
+
+(d:/texlive/2024/texmf-dist/tex/latex/graphics-def/xetex.def
+File: xetex.def 2022/09/22 v5.0n Graphics/color driver for xetex
+))
+\Gin@req@height=\dimen184
+\Gin@req@width=\dimen185
+)
+(d:/texlive/2024/texmf-dist/tex/latex/geometry/geometry.sty
+Package: geometry 2020/01/02 v5.9 Page Geometry
+
+(d:/texlive/2024/texmf-dist/tex/generic/iftex/ifvtex.sty
+Package: ifvtex 2019/10/25 v1.7 ifvtex legacy package. Use iftex instead.
+
+(d:/texlive/2024/texmf-dist/tex/generic/iftex/iftex.sty
+Package: iftex 2022/02/03 v1.0f TeX engine tests
+))
+\Gm@cnth=\count303
+\Gm@cntv=\count304
+\c@Gm@tempcnt=\count305
+\Gm@bindingoffset=\dimen186
+\Gm@wd@mp=\dimen187
+\Gm@odd@mp=\dimen188
+\Gm@even@mp=\dimen189
+\Gm@layoutwidth=\dimen190
+\Gm@layoutheight=\dimen191
+\Gm@layouthoffset=\dimen192
+\Gm@layoutvoffset=\dimen193
+\Gm@dimlist=\toks23
+)
+(d:/texlive/2024/texmf-dist/tex/latex/booktabs/booktabs.sty
+Package: booktabs 2020/01/12 v1.61803398 Publication quality tables
+\heavyrulewidth=\dimen194
+\lightrulewidth=\dimen195
+\cmidrulewidth=\dimen196
+\belowrulesep=\dimen197
+\belowbottomsep=\dimen198
+\aboverulesep=\dimen199
+\abovetopsep=\dimen256
+\cmidrulesep=\dimen257
+\cmidrulekern=\dimen258
+\defaultaddspace=\dimen259
+\@cmidla=\count306
+\@cmidlb=\count307
+\@aboverulesep=\dimen260
+\@belowrulesep=\dimen261
+\@thisruleclass=\count308
+\@lastruleclass=\count309
+\@thisrulewidth=\dimen262
+)
+(d:/texlive/2024/texmf-dist/tex/latex/tools/array.sty
+Package: array 2023/10/16 v2.5g Tabular extension package (FMi)
+\col@sep=\dimen263
+\ar@mcellbox=\box57
+\extrarowheight=\dimen264
+\NC@list=\toks24
+\extratabsurround=\skip62
+\backup@length=\skip63
+\ar@cellbox=\box58
+)
+(d:/texlive/2024/texmf-dist/tex/latex/float/float.sty
+Package: float 2001/11/08 v1.3d Float enhancements (AL)
+\c@float@type=\count310
+\float@exts=\toks25
+\float@box=\box59
+\@float@everytoks=\toks26
+\@floatcapt=\box60
+)
+(d:/texlive/2024/texmf-dist/tex/latex/tools/longtable.sty
+Package: longtable 2023-11-01 v4.19 Multi-page Table package (DPC)
+\LTleft=\skip64
+\LTright=\skip65
+\LTpre=\skip66
+\LTpost=\skip67
+\LTchunksize=\count311
+\LTcapwidth=\dimen265
+\LT@head=\box61
+\LT@firsthead=\box62
+\LT@foot=\box63
+\LT@lastfoot=\box64
+\LT@gbox=\box65
+\LT@cols=\count312
+\LT@rows=\count313
+\c@LT@tables=\count314
+\c@LT@chunks=\count315
+\LT@p@ftn=\toks27
+)
+(d:/texlive/2024/texmf-dist/tex/latex/titlesec/titlesec.sty
+Package: titlesec 2023/10/27 v2.16 Sectioning titles
+\ttl@box=\box66
+\beforetitleunit=\skip68
+\aftertitleunit=\skip69
+\ttl@plus=\dimen266
+\ttl@minus=\dimen267
+\ttl@toksa=\toks28
+\titlewidth=\dimen268
+\titlewidthlast=\dimen269
+\titlewidthfirst=\dimen270
+)
+(d:/texlive/2024/texmf-dist/tex/latex/tools/verbatim.sty
+Package: verbatim 2023-11-06 v1.5v LaTeX2e package for verbatim enhancements
+\every@verbatim=\toks29
+\verbatim@line=\toks30
+\verbatim@in@stream=\read2
+)
+(d:/texlive/2024/texmf-dist/tex/latex/multirow/multirow.sty
+Package: multirow 2021/03/15 v2.8 Span multiple rows of a table
+\multirow@colwidth=\skip70
+\multirow@cntb=\count316
+\multirow@dima=\skip71
+\bigstrutjot=\dimen271
+)
+(d:/texlive/2024/texmf-dist/tex/latex/graphics/lscape.sty
+Package: lscape 2020/05/28 v3.02 Landscape Pages (DPC)
+)
+(d:/texlive/2024/texmf-dist/tex/latex/fancyvrb/fancyvrb.sty
+Package: fancyvrb 2024/01/20 4.5c verbatim text (tvz,hv)
+\FV@CodeLineNo=\count317
+\FV@InFile=\read3
+\FV@TabBox=\box67
+\c@FancyVerbLine=\count318
+\FV@StepNumber=\count319
+\FV@OutFile=\write3
+) (./实验一.aux)
+\openout1 = `实验一.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 63.
+LaTeX Font Info:    ... okay on input line 63.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 63.
+LaTeX Font Info:    ... okay on input line 63.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 63.
+LaTeX Font Info:    ... okay on input line 63.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 63.
+LaTeX Font Info:    ... okay on input line 63.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 63.
+LaTeX Font Info:    ... okay on input line 63.
+LaTeX Font Info:    Checking defaults for TU/lmr/m/n on input line 63.
+LaTeX Font Info:    ... okay on input line 63.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 63.
+LaTeX Font Info:    ... okay on input line 63.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 63.
+LaTeX Font Info:    ... okay on input line 63.
+
+Package fontspec Info: Adjusting the maths setup (use [no-math] to avoid
+(fontspec)             this).
+
+\symlegacymaths=\mathgroup6
+LaTeX Font Info:    Overwriting symbol font `legacymaths' in version `bold'
+(Font)                  OT1/cmr/m/n --> OT1/cmr/bx/n on input line 63.
+LaTeX Font Info:    Redeclaring math accent \acute on input line 63.
+LaTeX Font Info:    Redeclaring math accent \grave on input line 63.
+LaTeX Font Info:    Redeclaring math accent \ddot on input line 63.
+LaTeX Font Info:    Redeclaring math accent \tilde on input line 63.
+LaTeX Font Info:    Redeclaring math accent \bar on input line 63.
+LaTeX Font Info:    Redeclaring math accent \breve on input line 63.
+LaTeX Font Info:    Redeclaring math accent \check on input line 63.
+LaTeX Font Info:    Redeclaring math accent \hat on input line 63.
+LaTeX Font Info:    Redeclaring math accent \dot on input line 63.
+LaTeX Font Info:    Redeclaring math accent \mathring on input line 63.
+LaTeX Font Info:    Redeclaring math symbol \Gamma on input line 63.
+LaTeX Font Info:    Redeclaring math symbol \Delta on input line 63.
+LaTeX Font Info:    Redeclaring math symbol \Theta on input line 63.
+LaTeX Font Info:    Redeclaring math symbol \Lambda on input line 63.
+LaTeX Font Info:    Redeclaring math symbol \Xi on input line 63.
+LaTeX Font Info:    Redeclaring math symbol \Pi on input line 63.
+LaTeX Font Info:    Redeclaring math symbol \Sigma on input line 63.
+LaTeX Font Info:    Redeclaring math symbol \Upsilon on input line 63.
+LaTeX Font Info:    Redeclaring math symbol \Phi on input line 63.
+LaTeX Font Info:    Redeclaring math symbol \Psi on input line 63.
+LaTeX Font Info:    Redeclaring math symbol \Omega on input line 63.
+LaTeX Font Info:    Redeclaring math symbol \mathdollar on input line 63.
+LaTeX Font Info:    Redeclaring symbol font `operators' on input line 63.
+LaTeX Font Info:    Encoding `OT1' has changed to `TU' for symbol font
+(Font)              `operators' in the math version `normal' on input line 63.
+LaTeX Font Info:    Overwriting symbol font `operators' in version `normal'
+(Font)                  OT1/cmr/m/n --> TU/lmr/m/n on input line 63.
+LaTeX Font Info:    Encoding `OT1' has changed to `TU' for symbol font
+(Font)              `operators' in the math version `bold' on input line 63.
+LaTeX Font Info:    Overwriting symbol font `operators' in version `bold'
+(Font)                  OT1/cmr/bx/n --> TU/lmr/m/n on input line 63.
+LaTeX Font Info:    Overwriting symbol font `operators' in version `normal'
+(Font)                  TU/lmr/m/n --> TU/lmr/m/n on input line 63.
+LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `normal'
+(Font)                  OT1/cmr/m/it --> TU/lmr/m/it on input line 63.
+LaTeX Font Info:    Overwriting math alphabet `\mathbf' in version `normal'
+(Font)                  OT1/cmr/bx/n --> TU/lmr/b/n on input line 63.
+LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `normal'
+(Font)                  OT1/cmss/m/n --> TU/lmss/m/n on input line 63.
+LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `normal'
+(Font)                  OT1/cmtt/m/n --> TU/lmtt/m/n on input line 63.
+LaTeX Font Info:    Overwriting symbol font `operators' in version `bold'
+(Font)                  TU/lmr/m/n --> TU/lmr/b/n on input line 63.
+LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `bold'
+(Font)                  OT1/cmr/bx/it --> TU/lmr/b/it on input line 63.
+LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `bold'
+(Font)                  OT1/cmss/bx/n --> TU/lmss/b/n on input line 63.
+LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `bold'
+(Font)                  OT1/cmtt/m/n --> TU/lmtt/b/n on input line 63.
+
+*geometry* driver: auto-detecting
+*geometry* detected driver: xetex
+*geometry* verbose mode - [ preamble ] result:
+* driver: xetex
+* paper: a4paper
+* layout: <same size as paper>
+* layoutoffset:(h,v)=(0.0pt,0.0pt)
+* modes: 
+* h-part:(L,W,R)=(71.13188pt, 455.24411pt, 71.13188pt)
+* v-part:(T,H,B)=(71.13188pt, 702.78308pt, 71.13188pt)
+* \paperwidth=597.50787pt
+* \paperheight=845.04684pt
+* \textwidth=455.24411pt
+* \textheight=702.78308pt
+* \oddsidemargin=-1.1381pt
+* \evensidemargin=-1.1381pt
+* \topmargin=-38.1381pt
+* \headheight=12.0pt
+* \headsep=25.0pt
+* \topskip=12.0pt
+* \footskip=30.0pt
+* \marginparwidth=35.0pt
+* \marginparsep=10.0pt
+* \columnsep=10.0pt
+* \skip\footins=10.8pt plus 4.0pt minus 2.0pt
+* \hoffset=0.0pt
+* \voffset=0.0pt
+* \mag=1000
+* \@twocolumnfalse
+* \@twosidefalse
+* \@mparswitchfalse
+* \@reversemarginfalse
+* (1in=72.27pt=25.4mm, 1cm=28.453pt)
+
+File: tongji_logo.png Graphic file (type bmp)
+<tongji_logo.png>
+LaTeX Font Info:    Trying to load font information for U+msa on input line 66.
+
+(d:/texlive/2024/texmf-dist/tex/latex/amsfonts/umsa.fd
+File: umsa.fd 2013/01/14 v3.01 AMS symbols A
+)
+LaTeX Font Info:    Trying to load font information for U+msb on input line 66.
+
+
+(d:/texlive/2024/texmf-dist/tex/latex/amsfonts/umsb.fd
+File: umsb.fd 2013/01/14 v3.01 AMS symbols B
+) [1
+
+]
+
+Package fontspec Info: Could not resolve font "SimHei/BI" (it probably doesn't
+(fontspec)             exist).
+
+
+Package fontspec Info: Could not resolve font "SimHei/B" (it probably doesn't
+(fontspec)             exist).
+
+
+Package fontspec Info: Could not resolve font "SimHei/I" (it probably doesn't
+(fontspec)             exist).
+
+
+Package fontspec Info: Font family 'SimHei(0)' created for font 'SimHei' with
+(fontspec)             options [Script={CJK}].
+(fontspec)              
+(fontspec)              This font family consists of the following NFSS
+(fontspec)             series/shapes:
+(fontspec)              
+(fontspec)             - 'normal' (m/n) with NFSS spec.:
+(fontspec)             <->"SimHei/OT:script=hani;language=dflt;"
+(fontspec)             - 'small caps'  (m/sc) with NFSS spec.: 
+
+ (./实验一.toc [1]
+[2])
+\tf@toc=\write4
+\openout4 = `实验一.toc'.
+
+ [3] [4]
+
+LaTeX Warning: No positions in optional float specifier.
+               Default added (so using `tbp') on input line 87.
+
+Missing character: There is no ， (U+FF0C) in font [lmroman12-regular]:mapping=t
+ex-text;!
+Missing character: There is no ， (U+FF0C) in font [lmroman12-regular]:mapping=t
+ex-text;!
+Missing character: There is no ， (U+FF0C) in font [lmroman12-regular]:mapping=t
+ex-text;!
+Missing character: There is no ， (U+FF0C) in font [lmroman12-regular]:mapping=t
+ex-text;!
+Missing character: There is no ， (U+FF0C) in font [lmroman12-regular]:mapping=t
+ex-text;!
+Missing character: There is no ， (U+FF0C) in font [lmroman12-regular]:mapping=t
+ex-text;!
+Missing character: There is no ， (U+FF0C) in font [lmroman12-regular]:mapping=t
+ex-text;!
+Missing character: There is no ， (U+FF0C) in font [lmroman12-regular]:mapping=t
+ex-text;!
+Missing character: There is no ， (U+FF0C) in font [lmroman12-regular]:mapping=t
+ex-text;!
+Missing character: There is no ， (U+FF0C) in font [lmroman12-regular]:mapping=t
+ex-text;!
+Missing character: There is no ， (U+FF0C) in font [lmroman12-regular]:mapping=t
+ex-text;!
+Missing character: There is no ， (U+FF0C) in font [lmroman12-regular]:mapping=t
+ex-text;!
+Missing character: There is no ， (U+FF0C) in font [lmroman12-regular]:mapping=t
+ex-text;!
+Missing character: There is no 前 (U+524D) in font [lmroman12-regular]:mapping=t
+ex-text;!
+Missing character: There is no 导 (U+5BFC) in font [lmroman12-regular]:mapping=t
+ex-text;!
+Missing character: There is no 个 (U+4E2A) in font [lmroman12-regular]:mapping=t
+ex-text;!
+Missing character: There is no 数 (U+6570) in font [lmroman12-regular]:mapping=t
+ex-text;!
+[5]
+
+LaTeX Warning: No positions in optional float specifier.
+               Default added (so using `tbp') on input line 127.
+
+Missing character: There is no ， (U+FF0C) in font [lmroman12-regular]:mapping=t
+ex-text;!
+Missing character: There is no ， (U+FF0C) in font [lmroman12-regular]:mapping=t
+ex-text;!
+[6]
+File: screenshot003.png Graphic file (type bmp)
+<screenshot003.png>
+ [7
+
+
+
+] [8
+
+] [9]
+
+Package fontspec Info: Could not resolve font "FangSong/BI" (it probably
+(fontspec)             doesn't exist).
+
+
+Package fontspec Info: Could not resolve font "FangSong/B" (it probably
+(fontspec)             doesn't exist).
+
+
+Package fontspec Info: Could not resolve font "FangSong/I" (it probably
+(fontspec)             doesn't exist).
+
+
+Package fontspec Info: Font family 'FangSong(0)' created for font 'FangSong'
+(fontspec)             with options [Script={CJK}].
+(fontspec)              
+(fontspec)              This font family consists of the following NFSS
+(fontspec)             series/shapes:
+(fontspec)              
+(fontspec)             - 'normal' (m/n) with NFSS spec.:
+(fontspec)             <->"FangSong/OT:script=hani;language=dflt;"
+(fontspec)             - 'small caps'  (m/sc) with NFSS spec.: 
+
+ [10] [11]
+File: screenshot004.png Graphic file (type bmp)
+<screenshot004.png>
+ [12
+
+] [13]
+File: "./code/proctest/test.c"  (verbatim)
+File: screenshot005.png Graphic file (type bmp)
+<screenshot005.png>
+ [14
+
+]
+File: "./code/test_scripts/run_cpu_tests.do"  (verbatim)
+
+Overfull \hbox (222.00589pt too wide) in paragraph at lines 391--391
+[]\TU/lmtt/m/n/10 vlog -work work -quiet ./cpupip31real/cpupip31real.srcs/sourc
+es_1/ip/ram_8bit/dist_mem_gen_v8_0_10/simulation/dist_mem_gen_v8_0.v[] 
+ []
+
+
+Overfull \hbox (27.75589pt too wide) in paragraph at lines 391--391
+[]\TU/lmtt/m/n/10 vlog -work work -quiet ./cpupip31real/cpupip31real.srcs/sourc
+es_1/ip/ram_8bit/sim/ram_8bit.v[] 
+ []
+
+[15
+
+]
+Overfull \hbox (269.25589pt too wide) in paragraph at lines 391--391
+[]    \TU/lmtt/m/n/10 file copy -force ./cpupip31real/cpupip31real.srcs/sources
+_1/new/IMEM_ip.v ./cpupip31real/cpupip31real.srcs/sources_1/new/IMEM_ip.v.bak[]
+ 
+ []
+
+
+Overfull \hbox (279.75589pt too wide) in paragraph at lines 391--391
+[]        \TU/lmtt/m/n/10 if {[string match "*\$readmemh*" $line] && [string ma
+tch "*IMEMreg*" $line] && [string match "*//*" [string trimleft $line]] == 0} {
+[] 
+ []
+
+
+Overfull \hbox (64.50589pt too wide) in paragraph at lines 391--391
+[]            \TU/lmtt/m/n/10 lappend new_lines "        \$readmemh(\"E:/Homewo
+rks/cpu31real/$test_file\", IMEMreg);"[] 
+ []
+
+[16]
+Overfull \hbox (269.25589pt too wide) in paragraph at lines 391--391
+[]    \TU/lmtt/m/n/10 file copy -force ./cpupip31real/cpupip31real.srcs/sources
+_1/new/IMEM_ip.v.bak ./cpupip31real/cpupip31real.srcs/sources_1/new/IMEM_ip.v[]
+ 
+ []
+
+
+Overfull \hbox (531.75589pt too wide) in paragraph at lines 391--391
+[]    \TU/lmtt/m/n/10 set compare_result [catch {exec txt_compare --file1 $outp
+ut_result_file --file2 $std_result_file --display detailed > "$results_dir/${te
+st_name}_comparison_result.txt"} compare_output][] 
+ []
+
+
+Overfull \hbox (75.00589pt too wide) in paragraph at lines 391--391
+[]            \TU/lmtt/m/n/10 puts "===========================================
+======================================="[] 
+ []
+
+
+Overfull \hbox (75.00589pt too wide) in paragraph at lines 391--391
+[]            \TU/lmtt/m/n/10 puts "===========================================
+======================================="[] 
+ []
+
+[17]
+Overfull \hbox (1130.25589pt too wide) in paragraph at lines 391--391
+[]\TU/lmtt/m/n/10 set summary_text [subst "BATCH TEST SUMMARY\n================
+==================\nTotal tests: $total_tests\nPassed tests: $pass_count\nFaile
+d tests: [expr $total_tests - $pass_count]\nSuccess rate: [format %.2f [expr do
+uble($pass_count)*100/double($total_tests)]]%\n================================
+=="][] 
+ []
+
+
+Overfull \hbox (1.50589pt too wide) in paragraph at lines 391--391
+[]\TU/lmtt/m/n/10 puts "Success rate: [format %.2f [expr double($pass_count)*10
+0/double($total_tests)]]%"[] 
+ []
+
+[18] [19]
+File: screenshot006.png Graphic file (type bmp)
+<screenshot006.png>
+File: screenshot007.png Graphic file (type bmp)
+<screenshot007.png>
+ [20
+
+]
+File: 8a69e5ae243b0f7ba4ee0b1b2dae8d11.jpg Graphic file (type bmp)
+<8a69e5ae243b0f7ba4ee0b1b2dae8d11.jpg>
+File: e39a378c14b80a2a8df8b704aad3323d.jpg Graphic file (type bmp)
+<e39a378c14b80a2a8df8b704aad3323d.jpg>
+File: 800f3ed93f2565219c7ed80f975199f9.jpg Graphic file (type bmp)
+<800f3ed93f2565219c7ed80f975199f9.jpg>
+File: cdfdf8b59a435d1f3ea95ee57c87ac80.jpg Graphic file (type bmp)
+<cdfdf8b59a435d1f3ea95ee57c87ac80.jpg>
+File: 45e175dd70458c39fbb44a9f2a2ad16b.jpg Graphic file (type bmp)
+<45e175dd70458c39fbb44a9f2a2ad16b.jpg>
+File: c9b383055b06f534256f2c84909fdcfe.jpg Graphic file (type bmp)
+<c9b383055b06f534256f2c84909fdcfe.jpg>
+ [21
+
+] [22] [23]
+File: screenshot008.png Graphic file (type bmp)
+<screenshot008.png>
+ [24
+
+] [25] [26] [27] [28]
+File: "./code/coe/test.coe"  (verbatim)
+ [29] [30] [31]
+File: "./code/test_scripts/run_cpu_tests.do"  (verbatim)
+
+Overfull \hbox (222.00589pt too wide) in paragraph at lines 713--713
+[]\TU/lmtt/m/n/10 vlog -work work -quiet ./cpupip31real/cpupip31real.srcs/sourc
+es_1/ip/ram_8bit/dist_mem_gen_v8_0_10/simulation/dist_mem_gen_v8_0.v[] 
+ []
+
+
+Overfull \hbox (27.75589pt too wide) in paragraph at lines 713--713
+[]\TU/lmtt/m/n/10 vlog -work work -quiet ./cpupip31real/cpupip31real.srcs/sourc
+es_1/ip/ram_8bit/sim/ram_8bit.v[] 
+ []
+
+[32
+
+]
+Overfull \hbox (269.25589pt too wide) in paragraph at lines 713--713
+[]    \TU/lmtt/m/n/10 file copy -force ./cpupip31real/cpupip31real.srcs/sources
+_1/new/IMEM_ip.v ./cpupip31real/cpupip31real.srcs/sources_1/new/IMEM_ip.v.bak[]
+ 
+ []
+
+
+Overfull \hbox (279.75589pt too wide) in paragraph at lines 713--713
+[]        \TU/lmtt/m/n/10 if {[string match "*\$readmemh*" $line] && [string ma
+tch "*IMEMreg*" $line] && [string match "*//*" [string trimleft $line]] == 0} {
+[] 
+ []
+
+
+Overfull \hbox (64.50589pt too wide) in paragraph at lines 713--713
+[]            \TU/lmtt/m/n/10 lappend new_lines "        \$readmemh(\"E:/Homewo
+rks/cpu31real/$test_file\", IMEMreg);"[] 
+ []
+
+[33]
+Overfull \hbox (269.25589pt too wide) in paragraph at lines 713--713
+[]    \TU/lmtt/m/n/10 file copy -force ./cpupip31real/cpupip31real.srcs/sources
+_1/new/IMEM_ip.v.bak ./cpupip31real/cpupip31real.srcs/sources_1/new/IMEM_ip.v[]
+ 
+ []
+
+
+Overfull \hbox (531.75589pt too wide) in paragraph at lines 713--713
+[]    \TU/lmtt/m/n/10 set compare_result [catch {exec txt_compare --file1 $outp
+ut_result_file --file2 $std_result_file --display detailed > "$results_dir/${te
+st_name}_comparison_result.txt"} compare_output][] 
+ []
+
+
+Overfull \hbox (75.00589pt too wide) in paragraph at lines 713--713
+[]            \TU/lmtt/m/n/10 puts "===========================================
+======================================="[] 
+ []
+
+
+Overfull \hbox (75.00589pt too wide) in paragraph at lines 713--713
+[]            \TU/lmtt/m/n/10 puts "===========================================
+======================================="[] 
+ []
+
+[34]
+Overfull \hbox (1130.25589pt too wide) in paragraph at lines 713--713
+[]\TU/lmtt/m/n/10 set summary_text [subst "BATCH TEST SUMMARY\n================
+==================\nTotal tests: $total_tests\nPassed tests: $pass_count\nFaile
+d tests: [expr $total_tests - $pass_count]\nSuccess rate: [format %.2f [expr do
+uble($pass_count)*100/double($total_tests)]]%\n================================
+=="][] 
+ []
+
+
+Overfull \hbox (1.50589pt too wide) in paragraph at lines 713--713
+[]\TU/lmtt/m/n/10 puts "Success rate: [format %.2f [expr double($pass_count)*10
+0/double($total_tests)]]%"[] 
+ []
+
+[35]
+File: "./code/test_bench/testbench.v"  (verbatim)
+
+Overfull \hbox (12.00589pt too wide) in paragraph at lines 721--721
+[]    \TU/lmtt/m/n/10 wire [31:0] alu_data   = testbench.board_top_inst.cpu_ins
+t.pipe_ex_inst.out_alu_data;[] 
+ []
+
+
+Overfull \hbox (6.75589pt too wide) in paragraph at lines 721--721
+[]    \TU/lmtt/m/n/10 wire [5:0]  in_exe_func = testbench.board_top_inst.cpu_in
+st.pipe_id_inst.in_ex_func;[] 
+ []
+
+
+Overfull \hbox (38.25589pt too wide) in paragraph at lines 721--721
+[]    \TU/lmtt/m/n/10 wire [31:0] in_exe_hi_data = testbench.board_top_inst.cpu
+_inst.pipe_id_inst.ex_df_hi_data;[] 
+ []
+
+
+Overfull \hbox (38.25589pt too wide) in paragraph at lines 721--721
+[]    \TU/lmtt/m/n/10 wire [31:0] in_exe_lo_data = testbench.board_top_inst.cpu
+_inst.pipe_id_inst.ex_df_lo_data;[] 
+ []
+
+
+Overfull \hbox (38.25589pt too wide) in paragraph at lines 721--721
+[]    \TU/lmtt/m/n/10 wire [31:0] in_exe_rd_data = testbench.board_top_inst.cpu
+_inst.pipe_id_inst.ex_df_rd_data;[] 
+ []
+
+
+Overfull \hbox (38.25589pt too wide) in paragraph at lines 721--721
+[]    \TU/lmtt/m/n/10 wire        in_exe_hi_wena = testbench.board_top_inst.cpu
+_inst.pipe_id_inst.in_ex_hi_wena;[] 
+ []
+
+
+Overfull \hbox (38.25589pt too wide) in paragraph at lines 721--721
+[]    \TU/lmtt/m/n/10 wire        in_exe_lo_wena = testbench.board_top_inst.cpu
+_inst.pipe_id_inst.in_ex_lo_wena;[] 
+ []
+
+
+Overfull \hbox (38.25589pt too wide) in paragraph at lines 721--721
+[]    \TU/lmtt/m/n/10 wire        in_exe_rd_wena = testbench.board_top_inst.cpu
+_inst.pipe_id_inst.in_ex_rd_wena;[] 
+ []
+
+
+Overfull \hbox (22.50589pt too wide) in paragraph at lines 721--721
+[]    \TU/lmtt/m/n/10 wire [4:0]  in_exe_rdc = testbench.board_top_inst.cpu_ins
+t.pipe_id_inst.in_ex_rd_waddr;[] 
+ []
+
+
+Overfull \hbox (43.50589pt too wide) in paragraph at lines 721--721
+[]    \TU/lmtt/m/n/10 wire [31:0] in_mem_hi_data = testbench.board_top_inst.cpu
+_inst.pipe_id_inst.mem_df_hi_data;[] 
+ []
+
+
+Overfull \hbox (43.50589pt too wide) in paragraph at lines 721--721
+[]    \TU/lmtt/m/n/10 wire [31:0] in_mem_lo_data = testbench.board_top_inst.cpu
+_inst.pipe_id_inst.mem_df_lo_data;[] 
+ []
+
+
+Overfull \hbox (43.50589pt too wide) in paragraph at lines 721--721
+[]    \TU/lmtt/m/n/10 wire [31:0] in_mem_rd_data = testbench.board_top_inst.cpu
+_inst.pipe_id_inst.mem_df_rd_data;[] 
+ []
+
+
+Overfull \hbox (43.50589pt too wide) in paragraph at lines 721--721
+[]    \TU/lmtt/m/n/10 wire        in_mem_hi_wena = testbench.board_top_inst.cpu
+_inst.pipe_id_inst.in_mem_hi_wena;[] 
+ []
+
+
+Overfull \hbox (43.50589pt too wide) in paragraph at lines 721--721
+[]    \TU/lmtt/m/n/10 wire        in_mem_lo_wena = testbench.board_top_inst.cpu
+_inst.pipe_id_inst.in_mem_lo_wena;[] 
+ []
+
+
+Overfull \hbox (43.50589pt too wide) in paragraph at lines 721--721
+[]    \TU/lmtt/m/n/10 wire        in_mem_rd_wena = testbench.board_top_inst.cpu
+_inst.pipe_id_inst.in_mem_rd_wena;[] 
+ []
+
+
+Overfull \hbox (27.75589pt too wide) in paragraph at lines 721--721
+[]    \TU/lmtt/m/n/10 wire [4:0]  in_mem_rdc = testbench.board_top_inst.cpu_ins
+t.pipe_id_inst.in_mem_rd_waddr;[] 
+ []
+
+
+Overfull \hbox (17.25589pt too wide) in paragraph at lines 721--721
+[]    \TU/lmtt/m/n/10 wire [31:0] in_wb_hi_data = testbench.board_top_inst.cpu_
+inst.pipe_id_inst.in_hi_data;[] 
+ []
+
+
+Overfull \hbox (17.25589pt too wide) in paragraph at lines 721--721
+[]    \TU/lmtt/m/n/10 wire [31:0] in_wb_lo_data = testbench.board_top_inst.cpu_
+inst.pipe_id_inst.in_lo_data;[] 
+ []
+
+
+Overfull \hbox (17.25589pt too wide) in paragraph at lines 721--721
+[]    \TU/lmtt/m/n/10 wire [31:0] in_wb_rd_data = testbench.board_top_inst.cpu_
+inst.pipe_id_inst.in_rd_data;[] 
+ []
+
+
+Overfull \hbox (17.25589pt too wide) in paragraph at lines 721--721
+[]    \TU/lmtt/m/n/10 wire        in_wb_hi_wena = testbench.board_top_inst.cpu_
+inst.pipe_id_inst.in_hi_wena;[] 
+ []
+
+
+Overfull \hbox (17.25589pt too wide) in paragraph at lines 721--721
+[]    \TU/lmtt/m/n/10 wire        in_wb_lo_wena = testbench.board_top_inst.cpu_
+inst.pipe_id_inst.in_lo_wena;[] 
+ []
+
+
+Overfull \hbox (17.25589pt too wide) in paragraph at lines 721--721
+[]    \TU/lmtt/m/n/10 wire        in_wb_rd_wena = testbench.board_top_inst.cpu_
+inst.pipe_id_inst.in_rd_wena;[] 
+ []
+
+
+Overfull \hbox (1.50589pt too wide) in paragraph at lines 721--721
+[]    \TU/lmtt/m/n/10 wire [4:0]  in_wb_rdc = testbench.board_top_inst.cpu_inst
+.pipe_id_inst.in_rd_waddr;[] 
+ []
+
+
+Overfull \hbox (6.75589pt too wide) in paragraph at lines 721--721
+[]    \TU/lmtt/m/n/10 wire        out_forwarding = testbench.board_top_inst.cpu
+_inst.pipe_id_inst.forward;[] 
+ []
+
+
+Overfull \hbox (22.50589pt too wide) in paragraph at lines 721--721
+[]    \TU/lmtt/m/n/10 wire [31:0] df_out_rs_data = testbench.board_top_inst.cpu
+_inst.pipe_id_inst.rs_df_data;[] 
+ []
+
+
+Overfull \hbox (22.50589pt too wide) in paragraph at lines 721--721
+[]    \TU/lmtt/m/n/10 wire [31:0] df_out_rt_data = testbench.board_top_inst.cpu
+_inst.pipe_id_inst.rt_df_data;[] 
+ []
+
+
+Overfull \hbox (22.50589pt too wide) in paragraph at lines 721--721
+[]    \TU/lmtt/m/n/10 wire [31:0] df_out_hi_data = testbench.board_top_inst.cpu
+_inst.pipe_id_inst.hi_df_data;[] 
+ []
+
+
+Overfull \hbox (22.50589pt too wide) in paragraph at lines 721--721
+[]    \TU/lmtt/m/n/10 wire [31:0] df_out_lo_data = testbench.board_top_inst.cpu
+_inst.pipe_id_inst.lo_df_data;[] 
+ []
+
+
+Overfull \hbox (33.00589pt too wide) in paragraph at lines 721--721
+[]    \TU/lmtt/m/n/10 wire        out_alu_a_sel = testbench.board_top_inst.cpu_
+inst.pipe_id_inst.out_alu_a_sel;[] 
+ []
+
+
+Overfull \hbox (33.00589pt too wide) in paragraph at lines 721--721
+[]    \TU/lmtt/m/n/10 wire [1:0]  out_alu_b_sel = testbench.board_top_inst.cpu_
+inst.pipe_id_inst.out_alu_b_sel;[] 
+ []
+
+
+Overfull \hbox (22.50589pt too wide) in paragraph at lines 721--721
+[]    \TU/lmtt/m/n/10 wire [31:0] out_rs_data   = testbench.board_top_inst.cpu_
+inst.pipe_id_inst.out_rs_data;[] 
+ []
+
+
+Overfull \hbox (22.50589pt too wide) in paragraph at lines 721--721
+[]    \TU/lmtt/m/n/10 wire [31:0] out_rt_data   = testbench.board_top_inst.cpu_
+inst.pipe_id_inst.out_rt_data;[] 
+ []
+
+
+Overfull \hbox (22.50589pt too wide) in paragraph at lines 721--721
+[]    \TU/lmtt/m/n/10 wire [31:0] out_hi_data   = testbench.board_top_inst.cpu_
+inst.pipe_id_inst.out_hi_data;[] 
+ []
+
+
+Overfull \hbox (22.50589pt too wide) in paragraph at lines 721--721
+[]    \TU/lmtt/m/n/10 wire [31:0] out_lo_data   = testbench.board_top_inst.cpu_
+inst.pipe_id_inst.out_lo_data;[] 
+ []
+
+[36
+
+]
+Overfull \hbox (201.00589pt too wide) in paragraph at lines 721--721
+[]            \TU/lmtt/m/n/10 $fdisplay(file_output, "regfile0: %h", testbench.
+board_top_inst.cpu_inst.pipe_id_inst.regfile_inst.array_reg[0]);[] 
+ []
+
+
+Overfull \hbox (201.00589pt too wide) in paragraph at lines 721--721
+[]            \TU/lmtt/m/n/10 $fdisplay(file_output, "regfile1: %h", testbench.
+board_top_inst.cpu_inst.pipe_id_inst.regfile_inst.array_reg[1]);[] 
+ []
+
+
+Overfull \hbox (201.00589pt too wide) in paragraph at lines 721--721
+[]            \TU/lmtt/m/n/10 $fdisplay(file_output, "regfile2: %h", testbench.
+board_top_inst.cpu_inst.pipe_id_inst.regfile_inst.array_reg[2]);[] 
+ []
+
+
+Overfull \hbox (201.00589pt too wide) in paragraph at lines 721--721
+[]            \TU/lmtt/m/n/10 $fdisplay(file_output, "regfile3: %h", testbench.
+board_top_inst.cpu_inst.pipe_id_inst.regfile_inst.array_reg[3]);[] 
+ []
+
+
+Overfull \hbox (201.00589pt too wide) in paragraph at lines 721--721
+[]            \TU/lmtt/m/n/10 $fdisplay(file_output, "regfile4: %h", testbench.
+board_top_inst.cpu_inst.pipe_id_inst.regfile_inst.array_reg[4]);[] 
+ []
+
+
+Overfull \hbox (201.00589pt too wide) in paragraph at lines 721--721
+[]            \TU/lmtt/m/n/10 $fdisplay(file_output, "regfile5: %h", testbench.
+board_top_inst.cpu_inst.pipe_id_inst.regfile_inst.array_reg[5]);[] 
+ []
+
+
+Overfull \hbox (201.00589pt too wide) in paragraph at lines 721--721
+[]            \TU/lmtt/m/n/10 $fdisplay(file_output, "regfile6: %h", testbench.
+board_top_inst.cpu_inst.pipe_id_inst.regfile_inst.array_reg[6]);[] 
+ []
+
+
+Overfull \hbox (201.00589pt too wide) in paragraph at lines 721--721
+[]            \TU/lmtt/m/n/10 $fdisplay(file_output, "regfile7: %h", testbench.
+board_top_inst.cpu_inst.pipe_id_inst.regfile_inst.array_reg[7]);[] 
+ []
+
+
+Overfull \hbox (201.00589pt too wide) in paragraph at lines 721--721
+[]            \TU/lmtt/m/n/10 $fdisplay(file_output, "regfile8: %h", testbench.
+board_top_inst.cpu_inst.pipe_id_inst.regfile_inst.array_reg[8]);[] 
+ []
+
+
+Overfull \hbox (201.00589pt too wide) in paragraph at lines 721--721
+[]            \TU/lmtt/m/n/10 $fdisplay(file_output, "regfile9: %h", testbench.
+board_top_inst.cpu_inst.pipe_id_inst.regfile_inst.array_reg[9]);[] 
+ []
+
+
+Overfull \hbox (211.50589pt too wide) in paragraph at lines 721--721
+[]            \TU/lmtt/m/n/10 $fdisplay(file_output, "regfile10: %h", testbench
+.board_top_inst.cpu_inst.pipe_id_inst.regfile_inst.array_reg[10]);[] 
+ []
+
+
+Overfull \hbox (211.50589pt too wide) in paragraph at lines 721--721
+[]            \TU/lmtt/m/n/10 $fdisplay(file_output, "regfile11: %h", testbench
+.board_top_inst.cpu_inst.pipe_id_inst.regfile_inst.array_reg[11]);[] 
+ []
+
+
+Overfull \hbox (211.50589pt too wide) in paragraph at lines 721--721
+[]            \TU/lmtt/m/n/10 $fdisplay(file_output, "regfile12: %h", testbench
+.board_top_inst.cpu_inst.pipe_id_inst.regfile_inst.array_reg[12]);[] 
+ []
+
+
+Overfull \hbox (211.50589pt too wide) in paragraph at lines 721--721
+[]            \TU/lmtt/m/n/10 $fdisplay(file_output, "regfile13: %h", testbench
+.board_top_inst.cpu_inst.pipe_id_inst.regfile_inst.array_reg[13]);[] 
+ []
+
+
+Overfull \hbox (211.50589pt too wide) in paragraph at lines 721--721
+[]            \TU/lmtt/m/n/10 $fdisplay(file_output, "regfile14: %h", testbench
+.board_top_inst.cpu_inst.pipe_id_inst.regfile_inst.array_reg[14]);[] 
+ []
+
+
+Overfull \hbox (211.50589pt too wide) in paragraph at lines 721--721
+[]            \TU/lmtt/m/n/10 $fdisplay(file_output, "regfile15: %h", testbench
+.board_top_inst.cpu_inst.pipe_id_inst.regfile_inst.array_reg[15]);[] 
+ []
+
+
+Overfull \hbox (211.50589pt too wide) in paragraph at lines 721--721
+[]            \TU/lmtt/m/n/10 $fdisplay(file_output, "regfile16: %h", testbench
+.board_top_inst.cpu_inst.pipe_id_inst.regfile_inst.array_reg[16]);[] 
+ []
+
+
+Overfull \hbox (211.50589pt too wide) in paragraph at lines 721--721
+[]            \TU/lmtt/m/n/10 $fdisplay(file_output, "regfile17: %h", testbench
+.board_top_inst.cpu_inst.pipe_id_inst.regfile_inst.array_reg[17]);[] 
+ []
+
+
+Overfull \hbox (211.50589pt too wide) in paragraph at lines 721--721
+[]            \TU/lmtt/m/n/10 $fdisplay(file_output, "regfile18: %h", testbench
+.board_top_inst.cpu_inst.pipe_id_inst.regfile_inst.array_reg[18]);[] 
+ []
+
+
+Overfull \hbox (211.50589pt too wide) in paragraph at lines 721--721
+[]            \TU/lmtt/m/n/10 $fdisplay(file_output, "regfile19: %h", testbench
+.board_top_inst.cpu_inst.pipe_id_inst.regfile_inst.array_reg[19]);[] 
+ []
+
+
+Overfull \hbox (211.50589pt too wide) in paragraph at lines 721--721
+[]            \TU/lmtt/m/n/10 $fdisplay(file_output, "regfile20: %h", testbench
+.board_top_inst.cpu_inst.pipe_id_inst.regfile_inst.array_reg[20]);[] 
+ []
+
+
+Overfull \hbox (211.50589pt too wide) in paragraph at lines 721--721
+[]            \TU/lmtt/m/n/10 $fdisplay(file_output, "regfile21: %h", testbench
+.board_top_inst.cpu_inst.pipe_id_inst.regfile_inst.array_reg[21]);[] 
+ []
+
+
+Overfull \hbox (211.50589pt too wide) in paragraph at lines 721--721
+[]            \TU/lmtt/m/n/10 $fdisplay(file_output, "regfile22: %h", testbench
+.board_top_inst.cpu_inst.pipe_id_inst.regfile_inst.array_reg[22]);[] 
+ []
+
+
+Overfull \hbox (211.50589pt too wide) in paragraph at lines 721--721
+[]            \TU/lmtt/m/n/10 $fdisplay(file_output, "regfile23: %h", testbench
+.board_top_inst.cpu_inst.pipe_id_inst.regfile_inst.array_reg[23]);[] 
+ []
+
+
+Overfull \hbox (211.50589pt too wide) in paragraph at lines 721--721
+[]            \TU/lmtt/m/n/10 $fdisplay(file_output, "regfile24: %h", testbench
+.board_top_inst.cpu_inst.pipe_id_inst.regfile_inst.array_reg[24]);[] 
+ []
+
+
+Overfull \hbox (211.50589pt too wide) in paragraph at lines 721--721
+[]            \TU/lmtt/m/n/10 $fdisplay(file_output, "regfile25: %h", testbench
+.board_top_inst.cpu_inst.pipe_id_inst.regfile_inst.array_reg[25]);[] 
+ []
+
+
+Overfull \hbox (211.50589pt too wide) in paragraph at lines 721--721
+[]            \TU/lmtt/m/n/10 $fdisplay(file_output, "regfile26: %h", testbench
+.board_top_inst.cpu_inst.pipe_id_inst.regfile_inst.array_reg[26]);[] 
+ []
+
+
+Overfull \hbox (211.50589pt too wide) in paragraph at lines 721--721
+[]            \TU/lmtt/m/n/10 $fdisplay(file_output, "regfile27: %h", testbench
+.board_top_inst.cpu_inst.pipe_id_inst.regfile_inst.array_reg[27]);[] 
+ []
+
+
+Overfull \hbox (211.50589pt too wide) in paragraph at lines 721--721
+[]            \TU/lmtt/m/n/10 $fdisplay(file_output, "regfile28: %h", testbench
+.board_top_inst.cpu_inst.pipe_id_inst.regfile_inst.array_reg[28]);[] 
+ []
+
+
+Overfull \hbox (211.50589pt too wide) in paragraph at lines 721--721
+[]            \TU/lmtt/m/n/10 $fdisplay(file_output, "regfile29: %h", testbench
+.board_top_inst.cpu_inst.pipe_id_inst.regfile_inst.array_reg[29]);[] 
+ []
+
+
+Overfull \hbox (211.50589pt too wide) in paragraph at lines 721--721
+[]            \TU/lmtt/m/n/10 $fdisplay(file_output, "regfile30: %h", testbench
+.board_top_inst.cpu_inst.pipe_id_inst.regfile_inst.array_reg[30]);[] 
+ []
+
+
+Overfull \hbox (211.50589pt too wide) in paragraph at lines 721--721
+[]            \TU/lmtt/m/n/10 $fdisplay(file_output, "regfile31: %h", testbench
+.board_top_inst.cpu_inst.pipe_id_inst.regfile_inst.array_reg[31]);[] 
+ []
+
+
+Overfull \hbox (85.50589pt too wide) in paragraph at lines 721--721
+[]    \TU/lmtt/m/n/10 wire [31:0] regfile0    = testbench.board_top_inst.cpu_in
+st.pipe_id_inst.regfile_inst.array_reg[0];[] 
+ []
+
+
+Overfull \hbox (85.50589pt too wide) in paragraph at lines 721--721
+[]    \TU/lmtt/m/n/10 wire [31:0] regfile1    = testbench.board_top_inst.cpu_in
+st.pipe_id_inst.regfile_inst.array_reg[1];[] 
+ []
+
+
+Overfull \hbox (85.50589pt too wide) in paragraph at lines 721--721
+[]    \TU/lmtt/m/n/10 wire [31:0] regfile2    = testbench.board_top_inst.cpu_in
+st.pipe_id_inst.regfile_inst.array_reg[2];[] 
+ []
+
+
+Overfull \hbox (85.50589pt too wide) in paragraph at lines 721--721
+[]    \TU/lmtt/m/n/10 wire [31:0] regfile3    = testbench.board_top_inst.cpu_in
+st.pipe_id_inst.regfile_inst.array_reg[3];[] 
+ []
+
+
+Overfull \hbox (85.50589pt too wide) in paragraph at lines 721--721
+[]    \TU/lmtt/m/n/10 wire [31:0] regfile4    = testbench.board_top_inst.cpu_in
+st.pipe_id_inst.regfile_inst.array_reg[4];[] 
+ []
+
+
+Overfull \hbox (85.50589pt too wide) in paragraph at lines 721--721
+[]    \TU/lmtt/m/n/10 wire [31:0] regfile5    = testbench.board_top_inst.cpu_in
+st.pipe_id_inst.regfile_inst.array_reg[5];[] 
+ []
+
+
+Overfull \hbox (85.50589pt too wide) in paragraph at lines 721--721
+[]    \TU/lmtt/m/n/10 wire [31:0] regfile6    = testbench.board_top_inst.cpu_in
+st.pipe_id_inst.regfile_inst.array_reg[6];[] 
+ []
+
+
+Overfull \hbox (85.50589pt too wide) in paragraph at lines 721--721
+[]    \TU/lmtt/m/n/10 wire [31:0] regfile7    = testbench.board_top_inst.cpu_in
+st.pipe_id_inst.regfile_inst.array_reg[7];[] 
+ []
+
+
+Overfull \hbox (85.50589pt too wide) in paragraph at lines 721--721
+[]    \TU/lmtt/m/n/10 wire [31:0] regfile8    = testbench.board_top_inst.cpu_in
+st.pipe_id_inst.regfile_inst.array_reg[8];[] 
+ []
+
+
+Overfull \hbox (85.50589pt too wide) in paragraph at lines 721--721
+[]    \TU/lmtt/m/n/10 wire [31:0] regfile9    = testbench.board_top_inst.cpu_in
+st.pipe_id_inst.regfile_inst.array_reg[9];[] 
+ []
+
+
+Overfull \hbox (90.75589pt too wide) in paragraph at lines 721--721
+[]    \TU/lmtt/m/n/10 wire [31:0] regfile10   = testbench.board_top_inst.cpu_in
+st.pipe_id_inst.regfile_inst.array_reg[10];[] 
+ []
+
+
+Overfull \hbox (90.75589pt too wide) in paragraph at lines 721--721
+[]    \TU/lmtt/m/n/10 wire [31:0] regfile11   = testbench.board_top_inst.cpu_in
+st.pipe_id_inst.regfile_inst.array_reg[11];[] 
+ []
+
+
+Overfull \hbox (90.75589pt too wide) in paragraph at lines 721--721
+[]    \TU/lmtt/m/n/10 wire [31:0] regfile12   = testbench.board_top_inst.cpu_in
+st.pipe_id_inst.regfile_inst.array_reg[12];[] 
+ []
+
+
+Overfull \hbox (90.75589pt too wide) in paragraph at lines 721--721
+[]    \TU/lmtt/m/n/10 wire [31:0] regfile13   = testbench.board_top_inst.cpu_in
+st.pipe_id_inst.regfile_inst.array_reg[13];[] 
+ []
+
+
+Overfull \hbox (90.75589pt too wide) in paragraph at lines 721--721
+[]    \TU/lmtt/m/n/10 wire [31:0] regfile14   = testbench.board_top_inst.cpu_in
+st.pipe_id_inst.regfile_inst.array_reg[14];[] 
+ []
+
+
+Overfull \hbox (90.75589pt too wide) in paragraph at lines 721--721
+[]    \TU/lmtt/m/n/10 wire [31:0] regfile15   = testbench.board_top_inst.cpu_in
+st.pipe_id_inst.regfile_inst.array_reg[15];[] 
+ []
+
+
+Overfull \hbox (90.75589pt too wide) in paragraph at lines 721--721
+[]    \TU/lmtt/m/n/10 wire [31:0] regfile16   = testbench.board_top_inst.cpu_in
+st.pipe_id_inst.regfile_inst.array_reg[16];[] 
+ []
+
+
+Overfull \hbox (90.75589pt too wide) in paragraph at lines 721--721
+[]    \TU/lmtt/m/n/10 wire [31:0] regfile17   = testbench.board_top_inst.cpu_in
+st.pipe_id_inst.regfile_inst.array_reg[17];[] 
+ []
+
+
+Overfull \hbox (90.75589pt too wide) in paragraph at lines 721--721
+[]    \TU/lmtt/m/n/10 wire [31:0] regfile18   = testbench.board_top_inst.cpu_in
+st.pipe_id_inst.regfile_inst.array_reg[18];[] 
+ []
+
+
+Overfull \hbox (90.75589pt too wide) in paragraph at lines 721--721
+[]    \TU/lmtt/m/n/10 wire [31:0] regfile19   = testbench.board_top_inst.cpu_in
+st.pipe_id_inst.regfile_inst.array_reg[19];[] 
+ []
+
+
+Overfull \hbox (90.75589pt too wide) in paragraph at lines 721--721
+[]    \TU/lmtt/m/n/10 wire [31:0] regfile20   = testbench.board_top_inst.cpu_in
+st.pipe_id_inst.regfile_inst.array_reg[20];[] 
+ []
+
+
+Overfull \hbox (90.75589pt too wide) in paragraph at lines 721--721
+[]    \TU/lmtt/m/n/10 wire [31:0] regfile21   = testbench.board_top_inst.cpu_in
+st.pipe_id_inst.regfile_inst.array_reg[21];[] 
+ []
+
+
+Overfull \hbox (90.75589pt too wide) in paragraph at lines 721--721
+[]    \TU/lmtt/m/n/10 wire [31:0] regfile22   = testbench.board_top_inst.cpu_in
+st.pipe_id_inst.regfile_inst.array_reg[22];[] 
+ []
+
+
+Overfull \hbox (90.75589pt too wide) in paragraph at lines 721--721
+[]    \TU/lmtt/m/n/10 wire [31:0] regfile23   = testbench.board_top_inst.cpu_in
+st.pipe_id_inst.regfile_inst.array_reg[23];[] 
+ []
+
+
+Overfull \hbox (90.75589pt too wide) in paragraph at lines 721--721
+[]    \TU/lmtt/m/n/10 wire [31:0] regfile24   = testbench.board_top_inst.cpu_in
+st.pipe_id_inst.regfile_inst.array_reg[24];[] 
+ []
+
+
+Overfull \hbox (90.75589pt too wide) in paragraph at lines 721--721
+[]    \TU/lmtt/m/n/10 wire [31:0] regfile25   = testbench.board_top_inst.cpu_in
+st.pipe_id_inst.regfile_inst.array_reg[25];[] 
+ []
+
+
+Overfull \hbox (90.75589pt too wide) in paragraph at lines 721--721
+[]    \TU/lmtt/m/n/10 wire [31:0] regfile26   = testbench.board_top_inst.cpu_in
+st.pipe_id_inst.regfile_inst.array_reg[26];[] 
+ []
+
+
+Overfull \hbox (90.75589pt too wide) in paragraph at lines 721--721
+[]    \TU/lmtt/m/n/10 wire [31:0] regfile27   = testbench.board_top_inst.cpu_in
+st.pipe_id_inst.regfile_inst.array_reg[27];[] 
+ []
+
+
+Overfull \hbox (90.75589pt too wide) in paragraph at lines 721--721
+[]    \TU/lmtt/m/n/10 wire [31:0] regfile28   = testbench.board_top_inst.cpu_in
+st.pipe_id_inst.regfile_inst.array_reg[28];[] 
+ []
+
+[37]
+Overfull \hbox (90.75589pt too wide) in paragraph at lines 721--721
+[]    \TU/lmtt/m/n/10 wire [31:0] regfile29   = testbench.board_top_inst.cpu_in
+st.pipe_id_inst.regfile_inst.array_reg[29];[] 
+ []
+
+
+Overfull \hbox (90.75589pt too wide) in paragraph at lines 721--721
+[]    \TU/lmtt/m/n/10 wire [31:0] regfile30   = testbench.board_top_inst.cpu_in
+st.pipe_id_inst.regfile_inst.array_reg[30];[] 
+ []
+
+
+Overfull \hbox (90.75589pt too wide) in paragraph at lines 721--721
+[]    \TU/lmtt/m/n/10 wire [31:0] regfile31   = testbench.board_top_inst.cpu_in
+st.pipe_id_inst.regfile_inst.array_reg[31];[] 
+ []
+
+
+Overfull \hbox (27.75589pt too wide) in paragraph at lines 721--721
+[]    \TU/lmtt/m/n/10 board_top board_top_inst(.clk(clk), .rst(rst), .ena(ena),
+ .o_seg(o_seg), .o_sel(o_sel));[] 
+ []
+
+[38]
+File: "./code/verilog/cpu.v"  (verbatim)
+ [39
+
+] [40] [41] [42] [43] [44] [45] [46] [47] [48]
+File: "./code/verilog/board_top.v"  (verbatim)
+
+Overfull \hbox (27.75589pt too wide) in paragraph at lines 737--737
+[]    \TU/lmtt/m/n/10 mux8_32 mux_display(pc, instr, 32'b0,32'b0,reg6,reg7,reg1
+5,reg16, switch, display_data);[] 
+ []
+
+[49
+
+]
+File: "./code/verilog/pipe_if.v"  (verbatim)
+ [50
+
+]
+File: "./code/verilog/pipe_if_id.v"  (verbatim)
+ [51
+
+]
+File: "./code/verilog/pipe_id.v"  (verbatim)
+ [52
+
+]
+Overfull \hbox (12.00589pt too wide) in paragraph at lines 761--761
+[]    \TU/lmtt/m/n/10 assign out_pc_baddr = in_pc4 + { { { 14{ in_instr[15] } }
+, in_instr[15:0], 2'b00 } };[] 
+ []
+
+[53]
+Overfull \hbox (85.50589pt too wide) in paragraph at lines 761--761
+[]    \TU/lmtt/m/n/10 mux4_32 mux_ex_df_hi(in_ex_div_r, in_ex_mul_hi, in_ex_rs_
+data, 32'hz, in_ex_hi_sel, ex_df_hi_data);[] 
+ []
+
+
+Overfull \hbox (85.50589pt too wide) in paragraph at lines 761--761
+[]    \TU/lmtt/m/n/10 mux4_32 mux_ex_df_lo(in_ex_div_q, in_ex_mul_lo, in_ex_rs_
+data, 32'hz, in_ex_lo_sel, ex_df_lo_data);[] 
+ []
+
+
+Overfull \hbox (358.50589pt too wide) in paragraph at lines 761--761
+[]    \TU/lmtt/m/n/10 mux8_32 mux_ex_df_rd(in_ex_lo_data, in_ex_pc4, in_ex_clz_
+data, 32'hz, 32'hz, in_ex_alu_data, in_ex_hi_data, in_ex_mul_lo, in_ex_rd_sel, 
+ex_df_rd_data);[] 
+ []
+
+
+Overfull \hbox (117.00589pt too wide) in paragraph at lines 761--761
+[]    \TU/lmtt/m/n/10 mux4_32 mux_mem_df_hi(in_mem_div_q, in_mem_mul_hi, in_mem
+_rs_data, 32'hz, in_mem_hi_sel, mem_df_hi_data);[] 
+ []
+
+
+Overfull \hbox (117.00589pt too wide) in paragraph at lines 761--761
+[]    \TU/lmtt/m/n/10 mux4_32 mux_mem_df_lo(in_mem_div_r, in_mem_mul_lo, in_mem
+_rs_data, 32'hz, in_mem_lo_sel, mem_df_lo_data);[] 
+ []
+
+
+Overfull \hbox (463.50589pt too wide) in paragraph at lines 761--761
+[]    \TU/lmtt/m/n/10 mux8_32 mux_mem_df_rd(in_mem_lo_data, in_mem_pc4, in_mem_
+clz_data, 32'hz, in_mem_dmem_data, in_mem_alu_data, in_mem_hi_data, in_mem_mul_
+lo, in_mem_rd_sel, mem_df_rd_data);[] 
+ []
+
+
+Overfull \hbox (400.50589pt too wide) in paragraph at lines 761--761
+[]    \TU/lmtt/m/n/10 regfile regfile_inst(in_clk, in_rst, in_rd_wena, rsc, rtc
+, rs_rena, rt_rena, in_rd_waddr, in_rd_data, rs_data, rt_data, out_reg6,out_reg
+7,out_reg15,out_reg16);[] 
+ []
+
+
+Overfull \hbox (337.50589pt too wide) in paragraph at lines 761--761
+[]    \TU/lmtt/m/n/10 cp0 cp0_inst(in_clk, in_rst, mfc0, mtc0, in_pc4 - 32'd4, 
+cp0_addr, out_rt_data, cp0_exec, eret, cp0_cause, out_cp0_data, cp0_status, out
+_pc_eaddr);[] 
+ []
+
+
+Overfull \hbox (64.50589pt too wide) in paragraph at lines 761--761
+[]    \TU/lmtt/m/n/10 compare compare_inst(in_clk, in_rst, out_rs_data, out_rt_
+data, op, func, cp0_exec, out_branch);[] 
+ []
+
+[54] [55]
+File: "./code/verilog/pipe_id_ex.v"  (verbatim)
+ [56
+
+] [57] [58]
+File: "./code/verilog/pipe_ex.v"  (verbatim)
+ [59
+
+]
+Overfull \hbox (1.50589pt too wide) in paragraph at lines 777--777
+[]    \TU/lmtt/m/n/10 alu alu_inst(alu_a, alu_b, in_aluc, out_alu_data, zero, c
+arry, negative, overdlow);[] 
+ []
+
+
+Overfull \hbox (69.75589pt too wide) in paragraph at lines 777--777
+[]    \TU/lmtt/m/n/10 mult mult_inst(in_rst, in_mul_ena, in_mul_sign, in_rs_dat
+a, in_rt_data, out_mul_hi, out_mul_lo);[] 
+ []
+
+
+Overfull \hbox (48.75589pt too wide) in paragraph at lines 777--777
+[]    \TU/lmtt/m/n/10 div div_inst(in_rst, in_div_ena, in_div_sign, in_rs_data,
+ in_rt_data, out_div_q, out_div_r);[] 
+ []
+
+[60]
+File: "./code/verilog/pipe_ex_mem.v"  (verbatim)
+ [61
+
+] [62]
+File: "./code/verilog/pipe_mem.v"  (verbatim)
+ [63
+
+] [64]
+File: "./code/verilog/pipe_mem_wb.v"  (verbatim)
+ [65
+
+] [66]
+File: "./code/verilog/pipe_wb.v"  (verbatim)
+ [67
+
+]
+File: "./code/verilog/PipeControlUnit.v"  (verbatim)
+ [68
+
+] [69]
+Overfull \hbox (38.25589pt too wide) in paragraph at lines 817--817
+[]            \TU/lmtt/m/n/10 for (i_local = 0; i_local < NUM_RESERVATION_STATI
+ONS; i_local = i_local + 1) begin[] 
+ []
+
+
+Overfull \hbox (22.50589pt too wide) in paragraph at lines 817--817
+[]                \TU/lmtt/m/n/10 if (!station_busy[i_local] && station_type[i_
+local] == `RS_TYPE_IDLE) begin[] 
+ []
+
+
+Overfull \hbox (38.25589pt too wide) in paragraph at lines 817--817
+[]            \TU/lmtt/m/n/10 for (i_local = 0; i_local < NUM_RESERVATION_STATI
+ONS; i_local = i_local + 1) begin[] 
+ []
+
+
+Overfull \hbox (27.75589pt too wide) in paragraph at lines 817--817
+[]                \TU/lmtt/m/n/10 for (i_local = 0; i_local < NUM_FUNCTION_UNIT
+S; i_local = i_local + 1) begin[] 
+ []
+
+[70] [71] [72] [73]
+Overfull \hbox (43.50589pt too wide) in paragraph at lines 817--817
+[]            \TU/lmtt/m/n/10 isBranchType = ((op == `OP_BEQ) || (op == `OP_BNE
+) || (op == `OP_BGEZ)) && !isHalt;[] 
+ []
+
+[74] [75] [76] [77] [78] [79]
+File: "./code/verilog/controller.v"  (verbatim)
+ [80
+
+]
+Overfull \hbox (33.00589pt too wide) in paragraph at lines 825--825
+[]    \TU/lmtt/m/n/10 assign out_pc_sel[2] = (Beq & in_branch) | (Bne & in_bran
+ch) | (Bgez & in_branch) | Eret;[] 
+ []
+
+
+Overfull \hbox (164.25589pt too wide) in paragraph at lines 825--825
+[]    \TU/lmtt/m/n/10 assign out_pc_sel[1] = ~(J | Jr | Jal | Jalr | (Beq & in_
+branch) | (Bne & in_branch) | (Bgez & in_branch) | Eret);[] 
+ []
+
+
+Overfull \hbox (75.00589pt too wide) in paragraph at lines 825--825
+[]    \TU/lmtt/m/n/10 assign out_aluc[3]      = Lui | Srl | Slt | Sltu | Sllv |
+ Srlv | Srav | Sra | Slti | Sltiu | Sll;[] 
+ []
+
+
+Overfull \hbox (122.25589pt too wide) in paragraph at lines 825--825
+[]    \TU/lmtt/m/n/10 assign out_aluc[2]      = And | Or | Xor | Nor | Sll | Sr
+l | Sra | Sllv | Srlv | Srav | Andi | Ori | Xori;[] 
+ []
+
+
+Overfull \hbox (237.75589pt too wide) in paragraph at lines 825--825
+[]    \TU/lmtt/m/n/10 assign out_aluc[1]      = Add | Sub | Xor | Nor | Slt | S
+ltu | Sll | Sllv | Addi | Xori | Beq | Bne | Slti | Sltiu | Bgez | Teq;[] 
+ []
+
+
+Overfull \hbox (185.25589pt too wide) in paragraph at lines 825--825
+[]    \TU/lmtt/m/n/10 assign out_aluc[0]      = Subu | Sub | Or | Nor | Slt | S
+llv | Srlv | Sll | Srl | Slti | Ori | Beq | Bne | Bgez | Teq;[] 
+ []
+
+
+Overfull \hbox (442.50589pt too wide) in paragraph at lines 825--825
+[]    \TU/lmtt/m/n/10 assign out_alu_a_sel    = ~(Sll | Srl | Sra | Div | Divu 
+| Mul | Multu | J | Jr | Jal | Jalr | Mfc0 | Mtc0 | Mfhi | Mflo | Mthi | Mtlo |
+ Clz | Eret | Syscall | Break);[] 
+ []
+
+
+Overfull \hbox (206.25589pt too wide) in paragraph at lines 825--825
+[]    \TU/lmtt/m/n/10 assign out_alu_b_sel[0] = Addi | Addiu | Andi | Ori | Xor
+i | Slti | Sltiu | Lb | Lbu | Lh | Lhu | Lw | Sb | Sh | Sw | Lui;[] 
+ []
+
+
+Overfull \hbox (925.50589pt too wide) in paragraph at lines 825--825
+[]    \TU/lmtt/m/n/10 assign out_rs_rena   = Addi | Addiu | Andi | Ori | Sltiu 
+| Xori | Slti | Addu | And | Beq | Bne | Jr | Lw | Xor | Nor | Or | Sllv | Sltu
+ | Subu | Sw | Add | Sub | Slt | Srlv | Srav | Clz | Divu | Jalr | Lb | Lbu | L
+hu | Sb | Sh | Lh | Mul | Multu | Teq | Div;[] 
+ []
+
+[81]
+Overfull \hbox (558.00589pt too wide) in paragraph at lines 825--825
+[]    \TU/lmtt/m/n/10 assign out_rt_rena   = Addu | And | Beq | Bne | Xor | Nor
+ | Or | Sll | Sllv | Sltu | Sra | Srl | Subu | Sw | Add | Sub | Slt | Srlv | Sr
+av | Divu | Sb | Sh | Mtc0 | Mul | Multu | Teq | Div;[] 
+ []
+
+
+Overfull \hbox (883.50589pt too wide) in paragraph at lines 825--825
+[]    \TU/lmtt/m/n/10 assign out_rd_wena   = Addi | Addiu | Andi | Ori | Sltiu 
+| Lui | Xori | Slti | Addu | And | Xor | Nor | Or | Sll | Sllv | Sltu | Sra | S
+rl | Subu | Add | Sub | Slt | Srlv | Srav | Lb | Lbu | Lh | Lhu | Lw | Mfc0 | C
+lz | Jal | Jalr | Mfhi | Mflo | Mul;[] 
+ []
+
+
+Overfull \hbox (363.75589pt too wide) in paragraph at lines 825--825
+[]    \TU/lmtt/m/n/10 assign out_rdc = (Add | Addu | Sub | Subu | And | Or | Xo
+r | Nor | Slt | Sltu | Sll | Srl | Sra | Sllv | Srlv | Srav | Clz | Jalr | Mfhi
+ | Mflo | Mul) ?[] 
+ []
+
+
+Overfull \hbox (227.25589pt too wide) in paragraph at lines 825--825
+[]                   \TU/lmtt/m/n/10 in_instr[15:11] : (( Addi | Addiu | Andi |
+ Ori | Xori | Lb | Lbu | Lh | Lhu | Lw | Slti | Sltiu | Lui | Mfc0) ?[] 
+ []
+
+
+Overfull \hbox (474.00589pt too wide) in paragraph at lines 825--825
+[]    \TU/lmtt/m/n/10 assign out_rd_sel[2] = ~(Beq | Bne | Bgez | Div | Divu | 
+Sb | Multu | Sh | Sw | J | Jr | Jal | Jalr | Mfc0 | Mtc0 | Mflo | Mthi | Mtlo |
+ Clz | Eret | Syscall | Teq | Break);[] 
+ []
+
+
+Overfull \hbox (521.25589pt too wide) in paragraph at lines 825--825
+[]    \TU/lmtt/m/n/10 assign out_rd_sel[0] = ~(Beq | Bne | Bgez | Div | Divu | 
+Multu | Lb | Lbu | Lh | Lhu | Lw | Sb | Sh | Sw | J | Mtc0 | Mfhi | Mflo | Mthi
+ | Mtlo | Clz | Eret | Syscall | Teq | Break);[] 
+ []
+
+
+Overfull \hbox (111.75589pt too wide) in paragraph at lines 825--825
+[]    \TU/lmtt/m/n/10 assign out_cause        = Break ? `CAUSE_BREAK : (Syscall
+ ? `CAUSE_SYSCALL : (Teq ? `CAUSE_TEQ : 5'bz));[] 
+ []
+
+
+Overfull \hbox (206.25589pt too wide) in paragraph at lines 825--825
+[]    \TU/lmtt/m/n/10 assign out_exception    = in_status[0] && ((Syscall && in
+_status[1]) || (Break && in_status[2]) || (Teq && in_status[3]));[] 
+ []
+
+[82]
+File: "./code/verilog/forwarding.v"  (verbatim)
+ [83
+
+] [84] [85]
+File: "./code/verilog/pc.v"  (verbatim)
+ [86
+
+]
+File: "./code/verilog/IMEM_ip.v"  (verbatim)
+
+Overfull \hbox (1.50589pt too wide) in paragraph at lines 849--849
+[]    \TU/lmtt/m/n/10 //     //$readmemh("E:/Homeworks/cpu31real/testdata/16.26
+_lwsw2.hex.txt", IMEMreg);[] 
+ []
+
+
+Overfull \hbox (1.50589pt too wide) in paragraph at lines 849--849
+[]    \TU/lmtt/m/n/10 //     //$readmemh("E:/Homeworks/cpu31real/testdata/36.39
+_lbsb2.hex.txt", IMEMreg);[] 
+ []
+
+
+Overfull \hbox (1.50589pt too wide) in paragraph at lines 849--849
+[]    \TU/lmtt/m/n/10 //     //$readmemh("E:/Homeworks/cpu31real/testdata/40.41
+_lhsh2.hex.txt", IMEMreg);[] 
+ []
+
+
+Overfull \hbox (17.25589pt too wide) in paragraph at lines 849--849
+[]    \TU/lmtt/m/n/10 //     //$readmemh("E:/Homeworks/cpu31real/testdata/42.45
+_mfc0mtc0.hex.txt", IMEMreg);[] 
+ []
+
+
+Overfull \hbox (22.50589pt too wide) in paragraph at lines 849--849
+[]    \TU/lmtt/m/n/10 //     //$readmemh("E:/Homeworks/cpu31real/testdata/43.46
+_mfhi.mthi.hex.txt", IMEMreg);[] 
+ []
+
+
+Overfull \hbox (22.50589pt too wide) in paragraph at lines 849--849
+[]    \TU/lmtt/m/n/10 //     //$readmemh("E:/Homeworks/cpu31real/testdata/44.47
+_mflo.mtlo.hex.txt", IMEMreg);[] 
+ []
+
+
+Overfull \hbox (17.25589pt too wide) in paragraph at lines 849--849
+[]    \TU/lmtt/m/n/10 //     //$readmemh("E:/Homeworks/cpu31real/testdata/101_s
+wlwbnebeq.hex.txt", IMEMreg);[] 
+ []
+
+
+Overfull \hbox (22.50589pt too wide) in paragraph at lines 849--849
+[]    \TU/lmtt/m/n/10 //     //$readmemh("E:/Homeworks/cpu31real/testdata/102_r
+egconflict.hex.txt", IMEMreg);[] 
+ []
+
+[87
+
+]
+Overfull \hbox (80.25589pt too wide) in paragraph at lines 849--849
+[]    \TU/lmtt/m/n/10 //     //$readmemh("E:/Homeworks/cpu31real/testdata/103_r
+egconflict_detected_2.hex.txt", IMEMreg);[] 
+ []
+
+
+Overfull \hbox (48.75589pt too wide) in paragraph at lines 849--849
+[]    \TU/lmtt/m/n/10 //     //$readmemh("E:/Homeworks/cpu31real/testdata/104_p
+izza_tower_test.hex.txt", IMEMreg);[] 
+ []
+
+[88]
+File: "./code/verilog/dmem.v"  (verbatim)
+ [89
+
+] [90]
+File: "./code/verilog/regfile.v"  (verbatim)
+ [91
+
+] [92]
+File: "./code/verilog/alu.v"  (verbatim)
+ [93
+
+]
+File: "./code/verilog/mult.v"  (verbatim)
+ [94
+
+] [95]
+File: "./code/verilog/div.v"  (verbatim)
+ [96
+
+] [97]
+File: "./code/verilog/compare.v"  (verbatim)
+ [98
+
+]
+File: "./code/verilog/clz_counter.v"  (verbatim)
+ [99
+
+]
+File: "./code/verilog/cutter.v"  (verbatim)
+ [100
+
+]
+File: "./code/verilog/cp0.v"  (verbatim)
+ [101
+
+]
+File: "./code/verilog/seg7x16.v"  (verbatim)
+
+[102
+
+] [103]
+File: "./code/verilog/register.v"  (verbatim)
+ [104
+
+]
+File: "./code/verilog/mips_def.vh"  (verbatim)
+ [105
+
+] [106]
+File: "./code/verilog/mux2_32.v"  (verbatim)
+ [107
+
+]
+File: "./code/verilog/mux2_5.v"  (verbatim)
+ [108
+
+]
+File: "./code/verilog/mux4_32.v"  (verbatim)
+ [109
+
+]
+File: "./code/verilog/mux8_32.v"  (verbatim)
+ [110
+
+]
+File: "./code/xdc/xdc.xdc"  (verbatim)
+
+Overfull \hbox (85.50589pt too wide) in paragraph at lines 985--985
+[]\TU/lmtt/m/n/10 set_output_delay -clock [get_clocks *] 0.000 [get_ports -filt
+er { NAME =~  "*" && DIRECTION == "OUT" }][] 
+ []
+
+[111
+
+] (./实验一.aux)
+ ***********
+LaTeX2e <2023-11-01> patch level 1
+L3 programming layer <2022/07/14>
+ ***********
+ ) 
+Here is how much of TeX's memory you used:
+ 10235 strings out of 476720
+ 260848 string characters out of 5801444
+ 1972842 words of memory out of 5000000
+ 32056 multiletter control sequences out of 15000+600000
+ 564660 words of font info for 94 fonts, out of 8000000 for 9000
+ 36 hyphenation exceptions out of 8191
+ 93i,15n,97p,379b,913s stack positions out of 10000i,1000n,20000p,200000b,200000s
+
+Output written on 实验一.pdf (112 pages).

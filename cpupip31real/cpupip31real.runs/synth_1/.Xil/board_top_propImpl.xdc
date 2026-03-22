@@ -1,4 +1,4 @@
-set_property SRC_FILE_INFO {cfile:E:/Homeworks/cpu31real/cpupip31real/cpupip31real.srcs/constrs_1/new/xdc.xdc rfile:../../../cpupip31real.srcs/constrs_1/new/xdc.xdc id:1} [current_design]
+set_property SRC_FILE_INFO {cfile:E:/Homeworks/ComputerArchitechureReview/cpu31real/cpupip31real/cpupip31real.srcs/constrs_1/new/xdc.xdc rfile:../../../cpupip31real.srcs/constrs_1/new/xdc.xdc id:1} [current_design]
 set_property src_info {type:XDC file:1 line:1 export:INPUT save:INPUT read:READ} [current_design]
 set_property PACKAGE_PIN E3  [get_ports clk]
 set_property src_info {type:XDC file:1 line:2 export:INPUT save:INPUT read:READ} [current_design]

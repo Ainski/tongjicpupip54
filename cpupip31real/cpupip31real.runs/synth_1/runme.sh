@@ -24,7 +24,7 @@ else
 fi
 export LD_LIBRARY_PATH
 
-HD_PWD='E:/Homeworks/cpu31real/cpupip31real/cpupip31real.runs/synth_1'
+HD_PWD='E:/Homeworks/ComputerArchitechureReview/cpu31real/cpupip31real/cpupip31real.runs/synth_1'
 cd "$HD_PWD"
 
 HD_LOG=runme.log

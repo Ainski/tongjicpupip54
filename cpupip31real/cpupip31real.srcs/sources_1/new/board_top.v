@@ -7,10 +7,9 @@ module board_top(
     input           ena,
     input  [2:0]    switch,
     output [7:0]    o_seg,
-    output [7:0]    o_sel,
-    output          halt
-    );
-
+    output [7:0]    o_sel    
+);
+    wire halt;
     wire [31:0] display_data;
     wire [31:0] pc, instr;
     wire [31:0] reg6;

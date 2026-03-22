@@ -1,0 +1,162 @@
+Copyright 1986-2016 Xilinx, Inc. All Rights Reserved.
+--------------------------------------------------------------------------------------
+| Tool Version : Vivado v.2016.2 (win64) Build 1577090 Thu Jun  2 16:32:40 MDT 2016
+| Date         : Wed Dec 24 10:57:42 2025
+| Host         : Nicolas-ainski running 64-bit major release  (build 9200)
+| Command      : report_control_sets -verbose -file board_top_control_sets_placed.rpt
+| Design       : board_top
+| Device       : xc7a100t
+--------------------------------------------------------------------------------------
+
+Control Set Information
+
+Table of Contents
+-----------------
+1. Summary
+2. Flip-Flop Distribution
+3. Detailed Control Set Information
+
+1. Summary
+----------
+
++----------------------------------------------------------+-------+
+|                          Status                          | Count |
++----------------------------------------------------------+-------+
+| Number of unique control sets                            |   109 |
+| Unused register locations in slices containing registers |    50 |
++----------------------------------------------------------+-------+
+
+
+2. Flip-Flop Distribution
+-------------------------
+
++--------------+-----------------------+------------------------+-----------------+--------------+
+| Clock Enable | Synchronous Set/Reset | Asynchronous Set/Reset | Total Registers | Total Slices |
++--------------+-----------------------+------------------------+-----------------+--------------+
+| No           | No                    | No                     |              23 |            7 |
+| No           | No                    | Yes                    |            1091 |          376 |
+| No           | Yes                   | No                     |               0 |            0 |
+| Yes          | No                    | No                     |               0 |            0 |
+| Yes          | No                    | Yes                    |            2324 |         1054 |
+| Yes          | Yes                   | No                     |               0 |            0 |
++--------------+-----------------------+------------------------+-----------------+--------------+
+
+
+3. Detailed Control Set Information
+-----------------------------------
+
++------------------------+------------------------------------------------------------------------------------------------------------------------------+------------------+------------------+----------------+
+|      Clock Signal      |                                                         Enable Signal                                                        | Set/Reset Signal | Slice Load Count | Bel Load Count |
++------------------------+------------------------------------------------------------------------------------------------------------------------------+------------------+------------------+----------------+
+| ~clk_cpu_BUFG          |                                                                                                                              |                  |                1 |              2 |
+|  seg7x16_inst/seg7_clk |                                                                                                                              | rst_IBUF         |                2 |              3 |
+| ~clk_cpu_BUFG          |                                                                                                                              | rst_IBUF         |                3 |              5 |
+|  clk_IBUF_BUFG         |                                                                                                                              |                  |                6 |             21 |
+|  clk_cpu_BUFG          | cpu_inst/pipe_mem_inst/dmem_inst/mem3_uut/U0/synth_options.dist_mem_inst/gen_sp_ram.spram_inst/ram_reg_1792_2047_0_0_i_1_n_0 |                  |                8 |             32 |
+|  clk_cpu_BUFG          | cpu_inst/pipe_mem_inst/dmem_inst/mem3_uut/U0/synth_options.dist_mem_inst/gen_sp_ram.spram_inst/ram_reg_1024_1279_0_0_i_1_n_0 |                  |                8 |             32 |
+|  clk_cpu_BUFG          | cpu_inst/pipe_mem_inst/dmem_inst/mem3_uut/U0/synth_options.dist_mem_inst/gen_sp_ram.spram_inst/ram_reg_1280_1535_0_0_i_1_n_0 |                  |                8 |             32 |
+|  clk_cpu_BUFG          | cpu_inst/pipe_mem_inst/dmem_inst/mem3_uut/U0/synth_options.dist_mem_inst/gen_sp_ram.spram_inst/ram_reg_1536_1791_0_0_i_1_n_0 |                  |                8 |             32 |
+|  clk_cpu_BUFG          | cpu_inst/pipe_mem_inst/dmem_inst/mem3_uut/U0/synth_options.dist_mem_inst/gen_sp_ram.spram_inst/ram_reg_256_511_0_0_i_1_n_0   |                  |                8 |             32 |
+|  clk_cpu_BUFG          | cpu_inst/pipe_mem_inst/dmem_inst/mem3_uut/U0/synth_options.dist_mem_inst/gen_sp_ram.spram_inst/ram_reg_512_767_0_0_i_1_n_0   |                  |                8 |             32 |
+|  clk_cpu_BUFG          | cpu_inst/pipe_mem_inst/dmem_inst/mem3_uut/U0/synth_options.dist_mem_inst/gen_sp_ram.spram_inst/ram_reg_768_1023_0_0_i_1_n_0  |                  |                8 |             32 |
+|  clk_cpu_BUFG          | cpu_inst/pipe_mem_inst/dmem_inst/mem3_uut/U0/synth_options.dist_mem_inst/gen_sp_ram.spram_inst/ram_reg_0_255_0_0_i_1_n_0     |                  |                8 |             32 |
+|  clk_cpu_BUFG          | cpu_inst/pipe_mem_inst/dmem_inst/mem2_uut/U0/synth_options.dist_mem_inst/gen_sp_ram.spram_inst/ram_reg_768_1023_0_0_i_1_n_0  |                  |                8 |             32 |
+|  clk_cpu_BUFG          | cpu_inst/pipe_mem_inst/dmem_inst/mem2_uut/U0/synth_options.dist_mem_inst/gen_sp_ram.spram_inst/ram_reg_512_767_0_0_i_1_n_0   |                  |                8 |             32 |
+|  clk_cpu_BUFG          | cpu_inst/pipe_mem_inst/dmem_inst/mem2_uut/U0/synth_options.dist_mem_inst/gen_sp_ram.spram_inst/ram_reg_256_511_0_0_i_1_n_0   |                  |                8 |             32 |
+|  clk_cpu_BUFG          | cpu_inst/pipe_mem_inst/dmem_inst/mem2_uut/U0/synth_options.dist_mem_inst/gen_sp_ram.spram_inst/ram_reg_1792_2047_0_0_i_1_n_0 |                  |                8 |             32 |
+|  clk_cpu_BUFG          | cpu_inst/pipe_mem_inst/dmem_inst/mem2_uut/U0/synth_options.dist_mem_inst/gen_sp_ram.spram_inst/ram_reg_1536_1791_0_0_i_1_n_0 |                  |                8 |             32 |
+|  clk_cpu_BUFG          | cpu_inst/pipe_mem_inst/dmem_inst/mem2_uut/U0/synth_options.dist_mem_inst/gen_sp_ram.spram_inst/ram_reg_1280_1535_0_0_i_1_n_0 |                  |                8 |             32 |
+|  clk_cpu_BUFG          | cpu_inst/pipe_mem_inst/dmem_inst/mem2_uut/U0/synth_options.dist_mem_inst/gen_sp_ram.spram_inst/ram_reg_1024_1279_0_0_i_1_n_0 |                  |                8 |             32 |
+|  clk_cpu_BUFG          | cpu_inst/pipe_mem_inst/dmem_inst/mem2_uut/U0/synth_options.dist_mem_inst/gen_sp_ram.spram_inst/ram_reg_0_255_0_0_i_1_n_0     |                  |                8 |             32 |
+|  clk_cpu_BUFG          | cpu_inst/pipe_mem_inst/dmem_inst/mem1_uut/U0/synth_options.dist_mem_inst/gen_sp_ram.spram_inst/ram_reg_768_1023_0_0_i_1_n_0  |                  |                8 |             32 |
+|  clk_cpu_BUFG          | cpu_inst/pipe_mem_inst/dmem_inst/mem1_uut/U0/synth_options.dist_mem_inst/gen_sp_ram.spram_inst/ram_reg_512_767_0_0_i_1_n_0   |                  |                8 |             32 |
+|  clk_cpu_BUFG          | cpu_inst/pipe_mem_inst/dmem_inst/mem1_uut/U0/synth_options.dist_mem_inst/gen_sp_ram.spram_inst/ram_reg_256_511_0_0_i_1_n_0   |                  |                8 |             32 |
+|  clk_cpu_BUFG          | cpu_inst/pipe_mem_inst/dmem_inst/mem1_uut/U0/synth_options.dist_mem_inst/gen_sp_ram.spram_inst/ram_reg_1792_2047_0_0_i_1_n_0 |                  |                8 |             32 |
+|  clk_cpu_BUFG          | cpu_inst/pipe_mem_inst/dmem_inst/mem1_uut/U0/synth_options.dist_mem_inst/gen_sp_ram.spram_inst/ram_reg_1536_1791_0_0_i_1_n_0 |                  |                8 |             32 |
+|  clk_cpu_BUFG          | cpu_inst/pipe_mem_inst/dmem_inst/mem1_uut/U0/synth_options.dist_mem_inst/gen_sp_ram.spram_inst/ram_reg_1280_1535_0_0_i_1_n_0 |                  |                8 |             32 |
+|  clk_cpu_BUFG          | cpu_inst/pipe_mem_inst/dmem_inst/mem1_uut/U0/synth_options.dist_mem_inst/gen_sp_ram.spram_inst/ram_reg_1024_1279_0_0_i_1_n_0 |                  |                8 |             32 |
+|  clk_cpu_BUFG          | cpu_inst/pipe_mem_inst/dmem_inst/mem1_uut/U0/synth_options.dist_mem_inst/gen_sp_ram.spram_inst/ram_reg_0_255_0_0_i_1_n_0     |                  |                8 |             32 |
+|  clk_cpu_BUFG          | cpu_inst/pipe_mem_inst/dmem_inst/mem0_uut/U0/synth_options.dist_mem_inst/gen_sp_ram.spram_inst/ram_reg_768_1023_0_0_i_1_n_0  |                  |                8 |             32 |
+|  clk_cpu_BUFG          | cpu_inst/pipe_mem_inst/dmem_inst/mem0_uut/U0/synth_options.dist_mem_inst/gen_sp_ram.spram_inst/ram_reg_512_767_0_0_i_1_n_0   |                  |                8 |             32 |
+|  clk_cpu_BUFG          | cpu_inst/pipe_mem_inst/dmem_inst/mem0_uut/U0/synth_options.dist_mem_inst/gen_sp_ram.spram_inst/ram_reg_256_511_0_0_i_1_n_0   |                  |                8 |             32 |
+|  clk_cpu_BUFG          | cpu_inst/pipe_mem_inst/dmem_inst/mem0_uut/U0/synth_options.dist_mem_inst/gen_sp_ram.spram_inst/ram_reg_1792_2047_0_0_i_1_n_0 |                  |                8 |             32 |
+|  clk_cpu_BUFG          | cpu_inst/pipe_mem_inst/dmem_inst/mem0_uut/U0/synth_options.dist_mem_inst/gen_sp_ram.spram_inst/ram_reg_1536_1791_0_0_i_1_n_0 |                  |                8 |             32 |
+|  clk_cpu_BUFG          | cpu_inst/pipe_mem_inst/dmem_inst/mem0_uut/U0/synth_options.dist_mem_inst/gen_sp_ram.spram_inst/ram_reg_1280_1535_0_0_i_1_n_0 |                  |                8 |             32 |
+|  clk_cpu_BUFG          | cpu_inst/pipe_mem_inst/dmem_inst/mem0_uut/U0/synth_options.dist_mem_inst/gen_sp_ram.spram_inst/ram_reg_1024_1279_0_0_i_1_n_0 |                  |                8 |             32 |
+|  clk_cpu_BUFG          | cpu_inst/pipe_mem_inst/dmem_inst/mem0_uut/U0/synth_options.dist_mem_inst/gen_sp_ram.spram_inst/ram_reg_0_255_0_0_i_1_n_0     |                  |                8 |             32 |
+|  clk_cpu_BUFG          | cpu_inst/pipe_if_id_inst/array_reg_reg[0][0][0]                                                                              | rst_IBUF         |               13 |             32 |
+|  clk_cpu_BUFG          | cpu_inst/pipe_if_id_inst/array_reg_reg[10][0][0]                                                                             | rst_IBUF         |               11 |             32 |
+|  clk_cpu_BUFG          | cpu_inst/pipe_if_id_inst/array_reg_reg[11][0][0]                                                                             | rst_IBUF         |                9 |             32 |
+|  clk_cpu_BUFG          | cpu_inst/pipe_if_id_inst/array_reg_reg[13][0][0]                                                                             | rst_IBUF         |               12 |             32 |
+|  clk_cpu_BUFG          | cpu_inst/pipe_if_id_inst/array_reg_reg[12][0][0]                                                                             | rst_IBUF         |               13 |             32 |
+|  clk_cpu_BUFG          | cpu_inst/pipe_if_id_inst/array_reg_reg[14][0][0]                                                                             | rst_IBUF         |               17 |             32 |
+|  clk_cpu_BUFG          | cpu_inst/pipe_if_id_inst/array_reg_reg[15][0][0]                                                                             | rst_IBUF         |               11 |             32 |
+|  clk_cpu_BUFG          | cpu_inst/pipe_if_id_inst/array_reg_reg[16][0][0]                                                                             | rst_IBUF         |               15 |             32 |
+|  clk_cpu_BUFG          | cpu_inst/pipe_if_id_inst/array_reg_reg[17][0][0]                                                                             | rst_IBUF         |               12 |             32 |
+|  clk_cpu_BUFG          | cpu_inst/pipe_if_id_inst/array_reg_reg[18][0][0]                                                                             | rst_IBUF         |               18 |             32 |
+|  clk_cpu_BUFG          | cpu_inst/pipe_if_id_inst/array_reg_reg[19][0][0]                                                                             | rst_IBUF         |               13 |             32 |
+|  clk_cpu_BUFG          | cpu_inst/pipe_if_id_inst/array_reg_reg[1][0][0]                                                                              | rst_IBUF         |               14 |             32 |
+|  clk_cpu_BUFG          | cpu_inst/pipe_if_id_inst/array_reg_reg[20][0][0]                                                                             | rst_IBUF         |               17 |             32 |
+|  clk_cpu_BUFG          | cpu_inst/pipe_if_id_inst/array_reg_reg[21][0][0]                                                                             | rst_IBUF         |               13 |             32 |
+|  clk_cpu_BUFG          | cpu_inst/pipe_if_id_inst/array_reg_reg[22][0][0]                                                                             | rst_IBUF         |               16 |             32 |
+|  clk_cpu_BUFG          | cpu_inst/pipe_if_id_inst/array_reg_reg[23][0][0]                                                                             | rst_IBUF         |               18 |             32 |
+|  clk_cpu_BUFG          | cpu_inst/pipe_if_id_inst/array_reg_reg[24][0][0]                                                                             | rst_IBUF         |               13 |             32 |
+|  clk_cpu_BUFG          | cpu_inst/pipe_if_id_inst/array_reg_reg[25][0][0]                                                                             | rst_IBUF         |               18 |             32 |
+|  clk_cpu_BUFG          | cpu_inst/pipe_if_id_inst/array_reg_reg[26][0][0]                                                                             | rst_IBUF         |               15 |             32 |
+|  clk_cpu_BUFG          | cpu_inst/pipe_if_id_inst/array_reg_reg[27][0][0]                                                                             | rst_IBUF         |               10 |             32 |
+|  clk_cpu_BUFG          | cpu_inst/pipe_if_id_inst/array_reg_reg[28][0][0]                                                                             | rst_IBUF         |               12 |             32 |
+|  clk_cpu_BUFG          | cpu_inst/pipe_if_id_inst/array_reg_reg[29][0][0]                                                                             | rst_IBUF         |               15 |             32 |
+|  clk_cpu_BUFG          | cpu_inst/pipe_if_id_inst/array_reg_reg[2][0][0]                                                                              | rst_IBUF         |               15 |             32 |
+|  clk_cpu_BUFG          | cpu_inst/pipe_if_id_inst/array_reg_reg[30][0][0]                                                                             | rst_IBUF         |               12 |             32 |
+|  clk_cpu_BUFG          | cpu_inst/pipe_if_id_inst/array_reg_reg[31][0]_0[0]                                                                           | rst_IBUF         |               20 |             32 |
+|  clk_cpu_BUFG          | cpu_inst/pipe_if_id_inst/array_reg_reg[3][0][0]                                                                              | rst_IBUF         |               15 |             32 |
+|  clk_cpu_BUFG          | cpu_inst/pipe_if_id_inst/array_reg_reg[4][0][0]                                                                              | rst_IBUF         |               15 |             32 |
+|  clk_cpu_BUFG          | cpu_inst/pipe_if_id_inst/array_reg_reg[5][0][0]                                                                              | rst_IBUF         |               19 |             32 |
+|  clk_cpu_BUFG          | cpu_inst/pipe_if_id_inst/array_reg_reg[6][0][0]                                                                              | rst_IBUF         |               13 |             32 |
+|  clk_cpu_BUFG          | cpu_inst/pipe_if_id_inst/array_reg_reg[7][0][0]                                                                              | rst_IBUF         |               16 |             32 |
+|  clk_cpu_BUFG          | cpu_inst/pipe_if_id_inst/array_reg_reg[8][0][0]                                                                              | rst_IBUF         |               11 |             32 |
+|  clk_cpu_BUFG          | cpu_inst/pipe_if_id_inst/array_reg_reg[9][0][0]                                                                              | rst_IBUF         |               18 |             32 |
+|  clk_cpu_BUFG          | cpu_inst/pipe_mem_wb_inst/array_reg_reg[10][0][0]                                                                            | rst_IBUF         |               10 |             32 |
+|  clk_cpu_BUFG          | cpu_inst/pipe_mem_wb_inst/array_reg_reg[11][0][0]                                                                            | rst_IBUF         |               11 |             32 |
+|  clk_cpu_BUFG          | cpu_inst/pipe_mem_wb_inst/array_reg_reg[12][0][0]                                                                            | rst_IBUF         |               16 |             32 |
+|  clk_cpu_BUFG          | cpu_inst/pipe_mem_wb_inst/array_reg_reg[13][0][0]                                                                            | rst_IBUF         |               14 |             32 |
+|  clk_cpu_BUFG          | cpu_inst/pipe_mem_wb_inst/array_reg_reg[14][0][0]                                                                            | rst_IBUF         |               17 |             32 |
+|  clk_cpu_BUFG          | cpu_inst/pipe_mem_wb_inst/array_reg_reg[15][0][0]                                                                            | rst_IBUF         |               11 |             32 |
+|  clk_cpu_BUFG          | cpu_inst/pipe_mem_wb_inst/array_reg_reg[18][0][0]                                                                            | rst_IBUF         |                9 |             32 |
+|  clk_cpu_BUFG          | cpu_inst/pipe_mem_wb_inst/array_reg_reg[16][0][0]                                                                            | rst_IBUF         |                8 |             32 |
+|  clk_cpu_BUFG          | cpu_inst/pipe_mem_wb_inst/array_reg_reg[17][0][0]                                                                            | rst_IBUF         |               15 |             32 |
+|  clk_cpu_BUFG          | cpu_inst/pipe_mem_wb_inst/array_reg_reg[19][0][0]                                                                            | rst_IBUF         |               13 |             32 |
+|  clk_cpu_BUFG          | cpu_inst/pipe_mem_wb_inst/array_reg_reg[1][0][0]                                                                             | rst_IBUF         |               16 |             32 |
+|  clk_cpu_BUFG          | cpu_inst/pipe_mem_wb_inst/array_reg_reg[20][0][0]                                                                            | rst_IBUF         |               14 |             32 |
+|  clk_cpu_BUFG          | cpu_inst/pipe_mem_wb_inst/array_reg_reg[21][0][0]                                                                            | rst_IBUF         |               14 |             32 |
+|  clk_cpu_BUFG          | cpu_inst/pipe_mem_wb_inst/array_reg_reg[22][0][0]                                                                            | rst_IBUF         |               17 |             32 |
+|  clk_cpu_BUFG          | cpu_inst/pipe_mem_wb_inst/array_reg_reg[23][0][0]                                                                            | rst_IBUF         |               16 |             32 |
+|  clk_cpu_BUFG          | cpu_inst/pipe_mem_wb_inst/array_reg_reg[24][31][0]                                                                           | rst_IBUF         |               13 |             32 |
+|  clk_cpu_BUFG          | cpu_inst/pipe_mem_wb_inst/array_reg_reg[25][0][0]                                                                            | rst_IBUF         |                8 |             32 |
+|  clk_cpu_BUFG          | cpu_inst/pipe_mem_wb_inst/array_reg_reg[26][0][0]                                                                            | rst_IBUF         |                9 |             32 |
+|  clk_cpu_BUFG          | cpu_inst/pipe_mem_wb_inst/array_reg_reg[27][0][0]                                                                            | rst_IBUF         |               14 |             32 |
+|  clk_cpu_BUFG          | cpu_inst/pipe_mem_wb_inst/array_reg_reg[28][31][0]                                                                           | rst_IBUF         |               15 |             32 |
+|  clk_cpu_BUFG          | cpu_inst/pipe_mem_wb_inst/array_reg_reg[29][0][0]                                                                            | rst_IBUF         |               16 |             32 |
+|  clk_cpu_BUFG          | cpu_inst/pipe_mem_wb_inst/array_reg_reg[2][0][0]                                                                             | rst_IBUF         |               13 |             32 |
+|  clk_cpu_BUFG          | cpu_inst/pipe_mem_wb_inst/array_reg_reg[30][0][0]                                                                            | rst_IBUF         |               22 |             32 |
+|  clk_cpu_BUFG          | cpu_inst/pipe_mem_wb_inst/array_reg_reg[31][0][0]                                                                            | rst_IBUF         |               24 |             32 |
+|  clk_cpu_BUFG          | cpu_inst/pipe_mem_wb_inst/array_reg_reg[3][0][0]                                                                             | rst_IBUF         |                8 |             32 |
+|  clk_cpu_BUFG          | cpu_inst/pipe_mem_wb_inst/array_reg_reg[4][0][0]                                                                             | rst_IBUF         |               13 |             32 |
+|  clk_cpu_BUFG          | cpu_inst/pipe_mem_wb_inst/array_reg_reg[5][0][0]                                                                             | rst_IBUF         |               19 |             32 |
+|  clk_cpu_BUFG          | cpu_inst/pipe_mem_wb_inst/array_reg_reg[6][0][0]                                                                             | rst_IBUF         |               10 |             32 |
+|  clk_cpu_BUFG          | cpu_inst/pipe_mem_wb_inst/array_reg_reg[7][0][0]                                                                             | rst_IBUF         |               12 |             32 |
+|  clk_cpu_BUFG          | cpu_inst/pipe_mem_wb_inst/array_reg_reg[8][0][0]                                                                             | rst_IBUF         |               16 |             32 |
+|  clk_cpu_BUFG          | cpu_inst/pipe_mem_wb_inst/array_reg_reg[9][0][0]                                                                             | rst_IBUF         |               24 |             32 |
+|  clk_cpu_BUFG          | cpu_inst/pipe_if_inst/imem_inst/E[0]                                                                                         | rst_IBUF         |               18 |             32 |
+| ~clk_cpu_BUFG          | cpu_inst/pipe_mem_wb_inst/out_data_reg[0][0]                                                                                 | rst_IBUF         |               19 |             32 |
+| ~clk_cpu_BUFG          | cpu_inst/pipe_mem_wb_inst/out_data_reg[31][0]                                                                                | rst_IBUF         |               18 |             32 |
+| ~clk_cpu_BUFG          | cpu_inst/pipe_id_inst/forwarding_inst/E[0]                                                                                   | rst_IBUF         |               16 |             33 |
+| ~clk_cpu_BUFG          | cpu_inst/pipe_id_inst/forwarding_inst/out_rt_data_retimed_reg[30]_0[0]                                                       | rst_IBUF         |               16 |             33 |
+| ~clk_cpu_BUFG          | cpu_inst/pipe_if_id_inst/out_lo_data_retimed_reg[30][0]                                                                      | rst_IBUF         |               25 |             33 |
+| ~clk_cpu_BUFG          | cpu_inst/pipe_if_id_inst/E[0]                                                                                                | rst_IBUF         |               28 |             33 |
+|  clk_IBUF_BUFG         |                                                                                                                              | rst_IBUF         |               23 |             54 |
+|  clk_cpu_BUFG          | cpu_inst/pipe_if_id_inst/out_pc4[31]_i_1_n_0                                                                                 | rst_IBUF         |               18 |             80 |
+|  clk_cpu_BUFG          |                                                                                                                              | rst_IBUF         |              348 |           1029 |
++------------------------+------------------------------------------------------------------------------------------------------------------------------+------------------+------------------+----------------+
+
+
